@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Thank You!</title>
+    <style>
+        body {
+            background: #f4f8fb;
+            font-family: 'Segoe UI', Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+        .thank-you-container {
+            background: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+            padding: 48px 32px;
+            text-align: center;
+            max-width: 400px;
+        }
+        .thank-you-icon {
+            font-size: 64px;
+            color: #4bb543;
+            margin-bottom: 16px;
+        }
+        h1 {
+            margin: 0 0 12px 0;
+            font-size: 2.2em;
+            color: #222;
+        }
+        p {
+            color: #555;
+            font-size: 1.1em;
+            margin-bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="thank-you-container">
+        <div class="thank-you-icon">🎉</div>
+        <h1>Thank You!</h1>
+        <p>Your job applications have been submitted.<br>
+        Good luck with your job search!</p>
+        <div id="summary-details" style="margin-top: 24px; text-align: left;"></div>
+    </div>
+    <script>
+        function getQueryParams() {
+            const params = {};
+            window.location.search.replace(/^[?]/, '').split('&').forEach(function(param) {
+                if(param) {
+                    const parts = param.split('=');
+                    params[decodeURIComponent(parts[0])] = decodeURIComponent(parts[1] || '');
+                }
+            });
+            return params;
+        }
+        const params = getQueryParams();
+        if (params.total !== undefined) {
+            const summaryDiv = document.getElementById('summary-details');
+            summaryDiv.innerHTML = `
+                <strong>Summary:</strong><br>
+                Total jobs received: <b>${params.total}</b><br>
+                Jobs visited: <b>${params.visited}</b><br>
+                Jobs applied: <b>${params.applied}</b><br>
+                Jobs queued for manual fill: <b>${params.manual_fill}</b><br>
+                Total time taken: <b>${params.time_taken} seconds</b>
+            `;
+        }
+    </script>
+</body>
+</html>

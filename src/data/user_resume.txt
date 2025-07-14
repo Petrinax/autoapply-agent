@@ -1,0 +1,53 @@
+Piyush Upreti – Resume
+
+Software Developer | Data Engineer
+Location: Bengaluru, India
+Email: piyushupreti07@gmail.com
+Phone: +91 8765830338
+LinkedIn: https://www.linkedin.com/in/piyush-upreti/
+
+Profile Summary:
+- Software Developer & Data Engineer with a B.Tech from IIT (BHU) Varanasi.
+- Specializes in Python Development, Distributed Computing, Big Data, and Cloud Platforms.
+- Experienced in designing ETL frameworks, REST APIs, and CI/CD pipelines.
+
+Technical Skills:
+- Languages & Frameworks: Python, SQL, Flask, Django, Pandas, PySpark, JavaScript, C/C++, HTML/CSS
+- Tools & Platforms: Databricks, BigQuery, Docker, Linux, Kafka, Airflow, Azure, GCP, Concord, Kubernetes, GitHub, Postman, PostgreSQL
+- Core Competencies: Automation, Distributed Computing, System Design, Big Data, Problem Solving, Data Structures, Algorithms, Communication, Adaptability, Cross-Team Collaboration
+
+Work Experience:
+
+Software Engineer III (Sep 2024 – Present)
+Walmart Global Tech India, Bengaluru
+- Designed and developed a scalable Data Lakehouse Platform for multiple fintech domains.
+- Engineered batch processing and event-driven streaming services handling 10M+ records/month with 99% reliability.
+- Developed Logging & Monitoring SDKs, improving observability and reducing incident resolution time by 50%.
+- Technologies: Python SDKs, Apache Kafka, Airflow, PostgreSQL, Pytest, PySpark, DataProc, BigQuery
+
+Software Engineer II (Jun 2022 – Aug 2024)
+Walmart Global Tech India, Bengaluru
+- Implemented event-driven ETL frameworks for Fintech platforms.
+- Developed scalable web services with 90%+ test coverage and 95% code quality.
+- Migrated 2000+ data pipelines to Managed Cloud Infrastructure with zero downtime.
+- Provided technical leadership via peer code reviews and mentored new joinees.
+- Technologies: Flask, WSGI, Pytest, PySpark, REST APIs, Azure, GCS, SQL, Databricks, BigQuery
+
+Software Developer (Summer Internship) (May 2021 – Jul 2021)
+Walmart Global Tech India, Bengaluru
+- Developed a full-stack web app to automate HR operations.
+- Designed Dashboards & Business Logic for data visualization.
+- Technologies: React, Redux, Node.js, Express.js, TypeScript, CosmosDB
+
+Projects:
+Captcha Recognition with Deep Learning (Mar 2020 – Apr 2020)
+- Developed a CNN-based ML model for handwritten Captcha recognition.
+- Achieved 95% accuracy using Deep Learning & OpenCV.
+- Technologies: TensorFlow, Python, Convolutional Neural Networks
+
+Education:
+Indian Institute of Technology (BHU), Varanasi (2018 – 2022)
+- B.Tech in Electronics Engineering
+
+Honors & Achievements:
+- IIT JEE (JEE Advanced) 2018 – All India Rank: 2304

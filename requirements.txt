@@ -1,0 +1,6 @@
+python-dotenv
+langchain
+tqdm
+selenium
+pydantic
+langchain_google_genai
