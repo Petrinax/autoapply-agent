@@ -1,0 +1,9 @@
+Notice Period: 30 Days
+Current Company Total Compensation / Annual CTC in Indian Rupees (INR): 35 Lakhs per annum (35 LPA)
+Current CTC Breakdown: 35 LPA -> 25 LPA Fixed + 5 LPA Annual RSUs + 5 LPA Annual Bonus
+Expected CTC: 45 LPA (Fixed > 35 LPA)
+
+Python & All python related Framework experience (Pyspark, Flask, Django): 3 Years +
+Generic software development experience (Docker, Kubernates, etc): 3 Years +
+Big Data experience (Kafka, Airflow, BigQuery, etc): 3 Years +
+System Design & Arcitecture experience: 3 Years +

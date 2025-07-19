@@ -9,10 +9,14 @@ def get_user_details(answer_format: type(BaseModel)) -> tuple[dict, bool]:
     # From LLM model
     status = False
     try_limit = 1
-    with open('./system_prompt0.txt', 'r') as f:
+    with open('./data/system_prompt.txt', 'r') as f:
+        user_resume = str(f.read())
+    with open('./data/other_user_details.txt', 'r') as f:
+        other_user_details = str(f.read())
+    with open('./prompts/system_prompt.txt', 'r') as f:
         system_prompt = str(f.read())
     client = GoogleGenerativeAI(model='gemini-2.5-flash', google_api_key= os.getenv('GOOGLE_API_KEY'), temperature=0.4)
-    prompt = system_prompt.format(format=answer_format.model_json_schema())
+    prompt = system_prompt.format(user_resume=user_resume, other_details=other_user_details, format=answer_format.model_json_schema())
     response = "No call happened to AI Agent"
 
     while not status and try_limit>0:
