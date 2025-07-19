@@ -154,4 +154,4 @@ pip install -r requirements.txt
 
 ---
 
-<p align="center"><b>Impress recruiters. Land more interviews. Automate your job search with SmartApply!</b></p>
+<p align="center"><b>Impress recruiters. Land more interviews. Automate your job search with SmartApply!</b></p> 
