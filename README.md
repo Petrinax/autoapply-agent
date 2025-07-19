@@ -16,8 +16,8 @@
 - [Features](FEATURES.md)
 - [AI Agent Details](AI_AGENT.md)
 - [Data Pipeline](DATA_PIPELINE.md)
-- [Getting Started](#getting-started)
-- [Screenshots / Demo](#screenshots--demo)
+- [Getting Started](#%EF%B8%8F-getting-started)
+- [Screenshots / Demo](#%EF%B8%8F-screenshots--demo)
 
 ---
 
