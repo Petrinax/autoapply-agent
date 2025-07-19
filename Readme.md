@@ -1,86 +1,157 @@
-# Langchain Project: The Ultimate Automated Job Application Engine
+# 🚀 SmartApply: The Ultimate Automated Job Application Engine
 
-**Fills up 100s of job applications in just 10 minutes. Perfectly tailors every application to your unique profile.**
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
+[![LangChain](https://img.shields.io/badge/LangChain-AI-yellow.svg)](https://www.langchain.com/)
 
----
-
-## 🚀 What is this project?
-
-This project is an advanced, AI-powered automation tool designed to revolutionize the job application process. Leveraging the power of LangChain, LLMs, and custom data pipelines, it can:
-
-- **Auto-fill hundreds of job applications** across multiple platforms in minutes, not hours.
-- **Intelligently parse and match your resume** to job descriptions, ensuring every application is highly relevant.
-- **Perfectly tailor cover letters and responses** to each company and role, maximizing your chances of landing interviews.
-- **Integrate with your existing data** (resumes, LinkedIn, custom profiles) for seamless, personalized applications.
-- **Track, log, and analyze** your application history for continuous improvement.
+<p align="center">
+  <b>Tags:</b> <code>ETL</code> <code>AI Agent</code> <code>Automation</code> <code>Data Engineering</code> <code>CLI</code> <code>Job Search</code> <code>LLM</code> <code>Python</code>
+</p>
 
 ---
 
-## ✨ Features
-
-- **Lightning Fast:** Apply to 100+ jobs in under 10 minutes.
-- **Hyper-Personalized:** Every application is customized to your skills, experience, and the job description.
-- **Smart Matching:** Uses advanced NLP to match your profile to the best-fit roles.
-- **Plug-and-Play:** Easily connect your resume, LinkedIn, or custom data sources.
-- **Extensible:** Modular architecture—add new job boards, resume formats, or AI models with minimal effort.
-- **Transparent:** Logs every application, so you always know where you’ve applied and what was sent.
-
----
-
-## 🛠️ How does it work?
-
-1. **Ingests your profile data** (resume, LinkedIn, custom YAML/JSON).
-2. **Scrapes or imports job descriptions** from your target companies or boards.
-3. **Uses LLMs and custom transformers** to generate tailored application materials.
-4. **Auto-fills forms and submits applications** at scale, handling even complex workflows.
-5. **Logs and tracks** every application for your review.
+## 🌐 Quick Links
+- [Project Vision](Project_Vision.md)
+- [Architecture](ARCHITECTURE.md)
+- [Features](FEATURES.md)
+- [AI Agent Details](AI_AGENT.md)
+- [Data Pipeline](DATA_PIPELINE.md)
+- [Getting Started](#-getting-started)
+- [Screenshots / Demo](#-screenshots--demo)
 
 ---
 
-## 🎯 Why use this?
+## 🏆 Project Overview
 
-- **Save 100+ hours** of manual application work.
-- **Never send a generic application again.**
-- **Maximize your interview rate** with perfectly matched, AI-crafted applications.
-- **Ideal for job seekers, recruiters, and career coaches** who want to automate and optimize the application process.
+**SmartApply** is an AI-powered automation tool that revolutionizes the job application process. It leverages advanced AI agents, LLMs, and robust data pipelines to:
+- Auto-fill hundreds of job applications in minutes.
+- Intelligently match your resume to job descriptions.
+- Tailor every application and cover letter for maximum impact.
+- Integrate seamlessly with your data (resume, LinkedIn, custom profiles).
+- Track, log, and analyze your application journey.
 
----
-
-## 📦 Getting Started
-
-1. Clone the repo:  
-   `git clone https://github.com/yourusername/job-autoapply.git`
-2. Install dependencies:  
-   `pip install -r requirements.txt`
-3. Add your profile data (resume, LinkedIn, etc.) to the `/data` folder.
-4. Run the main script:  
-   `python generate_yaml/src/main.py`
-5. Watch as your applications are generated and submitted at lightning speed!
+> **Problem Solved:** Manual job applications are time-consuming, repetitive, and often generic. SmartApply automates and personalizes this process, saving you 100+ hours and dramatically increasing your interview rate.
 
 ---
 
-## 🤖 Tech Stack
-
-- **Python 3.11+**
-- **LangChain**
-- **OpenAI/LLM APIs**
-- **BeautifulSoup, Selenium** (for scraping and automation)
-- **Modular, extensible architecture**
-
----
-
-## 🏆 Impress recruiters. Land more interviews. Automate your job search.
+## ✨ Key Features
+- ⚡ **Lightning Fast:** Apply to 100+ jobs in under 10 minutes.
+- 🧠 **AI-Powered Personalization:** Every application is tailored to your skills, experience, and the job description using LLMs.
+- 🔍 **Smart Matching:** Advanced NLP matches your profile to the best-fit roles.
+- 🔌 **Plug-and-Play:** Connect your resume, LinkedIn, or custom data sources easily.
+- 🏗️ **Modular & Extensible:** Add new job boards, resume formats, or AI models with minimal effort.
+- 📊 **Transparent Tracking:** Logs every application for full visibility and analytics.
+- 🛡️ **Secure & Private:** Your data stays local and under your control.
 
 ---
 
-> **Note:** This project is for educational and personal use. Always review applications before submission to ensure accuracy and compliance with job board policies.
+## 🏗️ Architecture
 
---- 
+> **High-Level System Diagram:**
 
-**Limitations:**
+```mermaid
+flowchart TD
+    A["User Profile Data (Resume, LinkedIn, etc.)"] --> B["Data Ingestion & Parsing"]
+    B --> C["Job Scraper (Selenium, etc.)"]
+    C --> D["Job Descriptions"]
+    A --> E["AI Agent (LLM, LangChain)"]
+    D --> E
+    E --> F["Personalized Application Materials"]
+    F --> G["Form Filler & Submitter"]
+    G --> H["Job Boards / Company Portals"]
+    G --> I["Application Logs & Analytics"]
+    I --> J["User Review & Feedback"]
+    J --> B
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style E fill:#bbf,stroke:#333,stroke-width:2px
+    style G fill:#bfb,stroke:#333,stroke-width:2px
+    style I fill:#ffb,stroke:#333,stroke-width:2px
+    style J fill:#fff,stroke:#333,stroke-width:2px
+```
+
+**Components:**
+- **Data Ingestion:** Parses user profile data (resume, LinkedIn, etc.)
+- **Job Scraper:** Collects job descriptions from boards/platforms (Selenium-based)
+- **AI Agent:** Uses LLMs (LangChain, Gemini, etc.) for smart matching and content generation
+- **Form Filler:** Automates form filling and submission
+- **Logging & Analytics:** Tracks every application for review and improvement
+
+> See [ARCHITECTURE.md](ARCHITECTURE.md) for a deep dive.
+
+---
+
+## ⚙️ How It Works
+1. **Profile Ingestion:** Add your resume/LinkedIn data to `/src/data/`.
+2. **Job Collection:** Scrape or import job listings from your target platforms.
+3. **AI Matching:** LLMs analyze both your profile and job descriptions to generate tailored responses.
+4. **Automated Application:** The system fills and submits applications at scale, handling complex workflows.
+5. **Tracking:** Every application is logged for transparency and analytics.
+
+---
+
+## 🛠️ Getting Started
+
+### Prerequisites
+- Python 3.11+
+- Chrome browser (for Selenium automation)
+- [Google Gemini API Key](https://ai.google.dev/) (for LLM features)
+
+### Setup
+```bash
+git clone https://github.com/yourusername/job-autoapply.git
+cd job-autoapply
+pip install -r requirements.txt
+```
+
+1. Add your resume/profile data to `src/data/`.
+2. Set up your `.env` file with required credentials (see [ARCHITECTURE.md](ARCHITECTURE.md)).
+3. Start the Chrome debugger:  
+   `sh src/scripts/start_chrome_debugger.sh`
+4. Run the main script:
+   ```bash
+   python src/scripts/main_collect.py   # Collect jobs
+   python src/scripts/main_apply.py     # Auto-apply to jobs
+   ```
+
+---
+
+## 🧑‍💻 Showcase: Skills & Expertise
+- **Software Development:** Modular, testable Python code; robust error handling; logging; CI/CD ready.
+- **AI Agent Development:** Prompt engineering, LLM orchestration (LangChain, Gemini), agent logic for form filling and scoring.
+- **Data Engineering:** ETL pipelines for job and profile data; scalable scraping; structured data storage.
+- **System Design:** Extensible, maintainable architecture; clear separation of concerns; scalable automation.
+
+> For more, see [FEATURES.md](FEATURES.md), [AI_AGENT.md](AI_AGENT.md), [DATA_PIPELINE.md](DATA_PIPELINE.md).
+
+---
+
+## 🖼️ Screenshots / Demo
+
+> _Coming soon!_
+
+---
+
+## 📄 Additional Documentation
+- [PROJECT_VISION](PROJECT_VISION.md)
+- [ARCHITECTURE.md](ARCHITECTURE.md)
+- [FEATURES.md](FEATURES.md)
+- [AI_AGENT.md](AI_AGENT.md)
+- [DATA_PIPELINE.md](DATA_PIPELINE.md)
+
+---
+
+## ⚠️ Limitations & Issues
 - Typeahead/combobox form inputs are not supported.
-- Only "Easy Apply" job postings are supported.
+- Only "Easy Apply" job postings are supported for now.
+- LinkedIn may block bots due to rate limits; some jobs may be skipped if pages do not load fully.
 
-## Issues:
-- Linkedin blocking bot because of rate limits. 
-- pages not getting loaded fully before bot could read it. causing many jobs to get skipped.
+---
+
+## 📬 Contact
+- [LinkedIn: Piyush Upreti](https://www.linkedin.com/in/piyush-upreti/)
+- Email: piyushupreti07@gmail.com
+
+---
+
+<p align="center"><b>Impress recruiters. Land more interviews. Automate your job search with SmartApply!</b></p> 
