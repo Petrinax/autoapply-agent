@@ -1,6 +1,7 @@
 # 🚀 SmartApply: The Ultimate Automated Job Application Engine
 
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-under--development-orange.svg)]()
 [![LangChain](https://img.shields.io/badge/LangChain-AI-yellow.svg)](https://www.langchain.com/)
 [![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen.svg)](https://www.selenium.dev/)
@@ -147,6 +148,7 @@ pip install -r requirements.txt
 - [FEATURES.md](FEATURES.md)
 - [AI_AGENT.md](AI_AGENT.md)
 - [DATA_PIPELINE.md](DATA_PIPELINE.md)
+- [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ---
 
