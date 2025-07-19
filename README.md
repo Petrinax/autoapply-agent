@@ -12,7 +12,7 @@
 ---
 
 ## 🌐 Quick Links
-- [Project Vision](Project_Vision.md)
+- [Project Vision](PROJECT_VISION.md)
 - [Architecture](ARCHITECTURE.md)
 - [Features](FEATURES.md)
 - [AI Agent Details](AI_AGENT.md)
