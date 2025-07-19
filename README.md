@@ -34,6 +34,14 @@
 
 ---
 
+> ⚠️ **Caution:**  
+> 
+> This project is intended for educational purposes and is under active development. Additional enhancements are needed to ensure full compliance with LinkedIn and other job board policies.
+> 
+> Please carefully review each application before submitting to guarantee accuracy and adherence to job board requirements.
+
+---
+
 ## ✨ Key Features
 - ⚡ **Lightning Fast:** Apply to 100+ jobs in under 10 minutes.
 - 🧠 **AI-Powered Personalization:** Every application is tailored to your skills, experience, and the job description using LLMs.
