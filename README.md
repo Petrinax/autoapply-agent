@@ -1,7 +1,6 @@
 # 🚀 SmartApply: The Ultimate Automated Job Application Engine
 
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)]()
 [![LangChain](https://img.shields.io/badge/LangChain-AI-yellow.svg)](https://www.langchain.com/)
 
@@ -17,8 +16,8 @@
 - [Features](FEATURES.md)
 - [AI Agent Details](AI_AGENT.md)
 - [Data Pipeline](DATA_PIPELINE.md)
-- [Getting Started](#-getting-started)
-- [Screenshots / Demo](#-screenshots--demo)
+- [Getting Started](#%EF%B8%8F-getting-started)
+- [Screenshots / Demo](#%EF%B8%8F-screenshots--demo)
 
 ---
 
