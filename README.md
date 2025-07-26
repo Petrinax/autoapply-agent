@@ -1,4 +1,4 @@
-# 🚀 AppyEd: Job Application Engine
+# ⚡️💼 AppyEd: Job Application Engine
 
 <p align="center">
   <img src="static/applyed_landscape_logo.png" alt="Cashboard Expense Classifier Logo" width="300"/>
