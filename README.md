@@ -7,21 +7,22 @@
 **ApplyEd** aims to leverage advanced AI agents that fully control the browser, learn your profile and preferences, and can intelligently answer any arbitrary question or field in application forms. All of this is achieved with a true **single-click solution**—no more tedious re-typing or partial automation.
 
 
-[![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-under--development-orange.svg)]()
-[![LangChain](https://img.shields.io/badge/LangChain-AI-yellow.svg)](https://www.langchain.com/)
-[![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen.svg)](https://www.selenium.dev/)
-[![Gemini](https://img.shields.io/badge/Gemini-Google%20LLM-blueviolet.svg)](https://ai.google.dev/)
+[![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
+[![LangChain](https://img.shields.io/badge/LangChain-AI%20Agent-yellow.svg?style=for-the-badge&logo=langchain)](https://www.langchain.com/)
+[![Selenium](https://img.shields.io/badge/Selenium-Automation-green.svg?style=for-the-badge&logo=selenium)](https://www.selenium.dev/)
+[![Gemini](https://img.shields.io/badge/Gemini-Google%20LLM-blueviolet.svg?style=for-the-badge&logo=gemini)](https://ai.google.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![Status](https://img.shields.io/badge/status-under--development-orange.svg?style=for-the-badge)]()
 
 <p align="center">
   <b>Tags:</b> <code>ETL</code> <code>AI Agent</code> <code>Automation</code> <code>Data Engineering</code> <code>CLI</code> <code>Job Search</code> <code>LLM</code> <code>Python</code>
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/piyush-upreti/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/piyush-upreti/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin-white" alt="LinkedIn"/></a>
 <a href="https://github.com/petrinax"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=piyushupreti07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://medium.com/@piyushupreti07"><img src="https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium" alt="Medium"/></a>
 </p>
 
 
