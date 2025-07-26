@@ -1,4 +1,11 @@
-# 🚀 SmartApply: Automated Job Application Engine
+# 🚀 AppyEd: Job Application Engine
+
+<p align="center">
+  <img src="static/applyed_landscape_logo.png" alt="Cashboard Expense Classifier Logo" width="300"/>
+</p>
+
+**ApplyEd** aims to leverage advanced AI agents that fully control the browser, learn your profile and preferences, and can intelligently answer any arbitrary question or field in application forms. All of this is achieved with a true **single-click solution**—no more tedious re-typing or partial automation.
+
 
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -18,6 +25,23 @@
 </p>
 
 
+
+## 🏆 Project Overview
+
+**ApplyEd** is an AI-powered automation tool that revolutionizes the job application process by tackling the most frustrating pain points faced by job seekers:
+- **Redundant, repetitive questions:** Job boards and company portals often require users to re-type the same information (work history, education, skills, etc.) across hundreds of forms.
+- **Browser extension limitations:** Existing auto-fill tools and browser extensions frequently fail on complex or non-standard form fields, especially on platforms like LinkedIn's "Easy Apply".
+- **Manual effort and errors:** Even with automation, users must review and correct fields, answer arbitrary questions, and adapt to ever-changing form formats.
+
+> **Problem Solved:** Job application forms are filled with redundant, repetitive questions that force users to re-enter the same data over and over. Browser extensions and auto-fill tools often break on complex or dynamic fields, especially on LinkedIn. ApplyEd solves this by using AI agents that learn your profile, understand your preferences, and can answer any question in any application form—delivering a seamless, one-click application experience.
+
+
+> ⚠️ **Caution:**  
+> 
+> This project is intended for educational purposes and is under active development. Additional enhancements are needed to ensure full compliance with LinkedIn and other job board policies.
+> 
+> Please carefully review each application before submitting to guarantee accuracy and adherence to job board requirements.
+
 ## 🌐 Quick Links
 - [Project Vision](PROJECT_VISION.md)
 - [Architecture](ARCHITECTURE.md)
@@ -28,36 +52,17 @@
 - [Screenshots / Demo](#%EF%B8%8F-screenshots--demo)
 
 
-## 🏆 Project Overview
-
-**SmartApply** is an AI-powered automation tool that revolutionizes the job application process by tackling the most frustrating pain points faced by job seekers:
-- **Redundant, repetitive questions:** Job boards and company portals often require users to re-type the same information (work history, education, skills, etc.) across hundreds of forms.
-- **Browser extension limitations:** Existing auto-fill tools and browser extensions frequently fail on complex or non-standard form fields, especially on platforms like LinkedIn's "Easy Apply".
-- **Manual effort and errors:** Even with automation, users must review and correct fields, answer arbitrary questions, and adapt to ever-changing form formats.
-
-SmartApply aims to leverage advanced AI agents that fully control the browser, learn your profile and preferences, and can intelligently answer any arbitrary question or field in application forms. All of this is achieved with a true **single-click solution**—no more tedious re-typing or partial automation.
-
-> **Problem Solved:** Job application forms are filled with redundant, repetitive questions that force users to re-enter the same data over and over. Browser extensions and auto-fill tools often break on complex or dynamic fields, especially on LinkedIn. SmartApply solves this by using AI agents that learn your profile, understand your preferences, and can answer any question in any application form—delivering a seamless, one-click application experience.
-
-
-> ⚠️ **Caution:**  
-> 
-> This project is intended for educational purposes and is under active development. Additional enhancements are needed to ensure full compliance with LinkedIn and other job board policies.
-> 
-> Please carefully review each application before submitting to guarantee accuracy and adherence to job board requirements.
-
-
 ## 🎯 Motivation
 
 Job seekers waste countless hours re-entering the same information into job application forms across different platforms. Even the best browser extensions and auto-fill tools struggle with non-standard fields, dynamic forms, and arbitrary questions—especially on platforms like LinkedIn, where "Easy Apply" is often anything but easy. These tools are brittle, require constant user intervention, and fail to deliver a truly automated experience.
 
-**SmartApply** was created to break through these limitations. By harnessing the power of AI agents that can:
+**ApplyEd** was created to break through these limitations. By harnessing the power of AI agents that can:
 - Fully control the browser (not just fill fields, but interact as a human would)
 - Learn and adapt to your unique profile, resume, and preferences
 - Understand and answer any arbitrary question or custom field in real time
 - Apply to jobs with a single click, regardless of the complexity or format of the application form
 
-SmartApply aims to make job applications as effortless as possible—no matter how many forms, questions, or platforms you face.
+ApplyEd aims to make job applications as effortless as possible—no matter how many forms, questions, or platforms you face.
 
 
 ## ✨ Key Features
@@ -169,4 +174,4 @@ pip install -r requirements.txt
 
 ---
 
-<p align="center"><b>Impress recruiters. Land more interviews. Automate your job search with SmartApply!</b></p> 
+<p align="center"><b>Impress recruiters. Land more interviews. Automate your job search with ApplyEd!</b></p> 
