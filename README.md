@@ -7,12 +7,36 @@
 **ApplyEd** aims to leverage advanced AI agents that fully control the browser, learn your profile and preferences, and can intelligently answer any arbitrary question or field in application forms. All of this is achieved with a true **single-click solution**—no more tedious re-typing or partial automation.
 
 
-[![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
+<!-- [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg?style=for-the-badge&logo=python)](https://www.python.org/downloads/)
 [![LangChain](https://img.shields.io/badge/LangChain-AI%20Agent-yellow.svg?style=for-the-badge&logo=langchain)](https://www.langchain.com/)
 [![Selenium](https://img.shields.io/badge/Selenium-Automation-green.svg?style=for-the-badge&logo=selenium)](https://www.selenium.dev/)
-[![Gemini](https://img.shields.io/badge/Gemini-Google%20LLM-blueviolet.svg?style=for-the-badge&logo=gemini)](https://ai.google.dev/)
+[![Gemini](https://img.shields.io/badge/Gemini-Google%20LLM-blueviolet.svg?style=for-the-badge&logo=googlegemini)](https://ai.google.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Status](https://img.shields.io/badge/status-under--development-orange.svg?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/status-under--development-orange.svg?style=for-the-badge)]() -->
+
+<p align="center">
+<a href="hhttps://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.11%2B-blue.svg?style=for-the-badge&logo=python" alt="Python: 3.11"/></a>
+<a href="https://www.langchain.com/">
+<img src="https://img.shields.io/badge/LangChain-AI%20Agent-yellow.svg?style=for-the-badge&logo=langchain" 
+alt="LangChain"/>
+</a>
+<a href="https://www.selenium.dev/">
+<img src="https://img.shields.io/badge/Selenium-Automation-green.svg?style=for-the-badge&logo=selenium" 
+alt="Selenium"/>
+</a>
+<a href="https://ai.google.dev/">
+<img src="https://img.shields.io/badge/Gemini-Google%20LLM-blueviolet.svg?style=for-the-badge&logo=googlegemini" 
+alt="Gemini"/>
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" 
+alt="License: MIT"/>
+</a>
+<a href="">
+<img src="https://img.shields.io/badge/status-under--development-orange.svg?style=for-the-badge" 
+alt="Status: Under Development"/>
+</a>
+</p>
 
 <p align="center">
   <b>Tags:</b> <code>ETL</code> <code>AI Agent</code> <code>Automation</code> <code>Data Engineering</code> <code>CLI</code> <code>Job Search</code> <code>LLM</code> <code>Python</code>
