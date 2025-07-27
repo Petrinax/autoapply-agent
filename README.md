@@ -15,27 +15,24 @@
 [![Status](https://img.shields.io/badge/status-under--development-orange.svg?style=for-the-badge)]() -->
 
 <p align="center">
-<a href="hhttps://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.11%2B-blue.svg?style=for-the-badge&logo=python" alt="Python: 3.11"/></a>
+<a href="hhttps://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.11%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python: 3.11"/></a>
 <a href="https://www.langchain.com/">
-<img src="https://img.shields.io/badge/LangChain-AI%20Agent-yellow.svg?style=for-the-badge&logo=langchain" 
+<img src="https://img.shields.io/badge/LangChain-0.3%2B-wheat?style=for-the-badge&logo=langchain&logoColor=white" 
 alt="LangChain"/>
 </a>
 <a href="https://www.selenium.dev/">
-<img src="https://img.shields.io/badge/Selenium-Automation-green.svg?style=for-the-badge&logo=selenium" 
+<img src="https://img.shields.io/badge/Selenium-4.34%2B-teal.svg?style=for-the-badge&logo=selenium&logoColor=white" 
 alt="Selenium"/>
 </a>
 <a href="https://ai.google.dev/">
-<img src="https://img.shields.io/badge/Gemini-Google%20LLM-blueviolet.svg?style=for-the-badge&logo=googlegemini" 
+<img src="https://img.shields.io/badge/Gemini-2.5%20flash-blueviolet?style=for-the-badge&logo=googlegemini&logoColor=white" 
 alt="Gemini"/>
 </a>
-<a href="">
-<img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" 
-alt="License: MIT"/>
-</a>
-<a href="">
-<img src="https://img.shields.io/badge/status-under--development-orange.svg?style=for-the-badge" 
-alt="Status: Under Development"/>
-</a>
+</p>
+
+<p align="center">
+<a href=""><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License: MIT"/></a>
+<a href=""><img src="https://img.shields.io/badge/status-under--development-orange.svg?style=for-the-badge" alt="Status: Under Development"/</a>
 </p>
 
 <p align="center">
@@ -45,8 +42,8 @@ alt="Status: Under Development"/>
 <p align="center">
 <a href="https://www.linkedin.com/in/piyush-upreti/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin-white" alt="LinkedIn"/></a>
 <a href="https://github.com/petrinax"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://medium.com/@piyushupreti07"><img src="https://img.shields.io/badge/Medium-wheat?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=piyushupreti07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://medium.com/@piyushupreti07"><img src="https://img.shields.io/badge/Medium-100000?style=for-the-badge&logo=medium" alt="Medium"/></a>
 </p>
 
 
