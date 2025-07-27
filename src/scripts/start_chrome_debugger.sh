@@ -22,6 +22,3 @@ echo "Starting Chrome with remote debugging on port $DEBUG_PORT..."
 "$CHROME_PATH" --remote-debugging-port=$DEBUG_PORT --user-data-dir="$USER_DATA_DIR" &
 
 echo "Chrome started. You can now connect Selenium or other tools to localhost:$DEBUG_PORT"
-
-
-"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" --remote-debugging-port=9222 --user-data-dir="/tmp/chrome-debug"

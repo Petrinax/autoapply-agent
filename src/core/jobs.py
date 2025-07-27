@@ -10,7 +10,7 @@ from src.core.form import get_form_data, fill_form_page, get_next_button
 from src.core.manual_fill import JobApplication
 import concurrent.futures
 import functools
-from logger import get_logger
+from src.core.logger import get_logger
 logger = get_logger(__name__)
 
 
@@ -145,7 +145,7 @@ def load_all_job_cards(driver, job_card_selector="div.job-card-list", scroll_pau
 
     while attempts < max_attempts:
         jobs = driver.find_elements(By.CSS_SELECTOR, job_card_selector)
-        driver.execute_script("arguments[0].scrollIntoView();", jobs[-1])
+        driver.execute_script('arguments[0].scrollIntoView({behavior: "smooth"});', jobs[-1])
         time.sleep(scroll_pause)
         new_jobs = driver.find_elements(By.CSS_SELECTOR, job_card_selector)
         if len(new_jobs) == last_count:

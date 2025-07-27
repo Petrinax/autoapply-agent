@@ -1,0 +1,3256 @@
+job_key,job_description,ats_score,ats_score_explanation,error,relevance_explanation,relevance_score,selection_chance
+job_2,"Job Summary: Python Developer
+Python Developer with verification
+Recro
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Location: Bengaluru, on-site
+
+
+
+
+Experience: 3-6 yrs
+
+
+
+
+Notice Period: Immediate
+
+
+
+
+Note: Last round of interview would be face-to-face
+
+
+
+
+Key Responsibilities:
+
+
+
+
+Write clean, maintainable, and efficient Python code.
+Design and implement scalable backend solutions using Python frameworks (e.g., Django, Flask, FastAPI).
+Integrate with databases such as PostgreSQL, MySQL, or MongoDB.
+Develop and maintain RESTful APIs.
+Collaborate with front-end developers, designers, and other team members to deliver high-quality products.
+Write unit and integration tests to ensure code quality.
+Optimize applications for maximum performance and scalability.
+Participate in code reviews and mentor junior developers if needed.
+
+
+
+
+Required Skills & Qualifications:
+
+
+
+
+Strong proficiency in Python and understanding of OOP principles.
+Hands-on experience with one or more Python web frameworks (Django, Flask, FastAPI).
+Experience with relational and non-relational databases.
+Familiarity with version control tools (e.g., Git).
+Knowledge of RESTful API design and integration.
+Experience with cloud platforms (AWS, GCP, or Azure) is a plus.
+Understanding of CI/CD processes is a bonus.
+Bachelors degree in Computer Science, Engineering, or a related field.",9,"Piyush's profile is highly optimized for an ATS. It features a clear, standard format with explicit sections for skills, experience, and education. Crucially, it contains a high density of relevant keywords such as 'Python', 'Flask', 'Django', 'PostgreSQL', 'REST APIs', 'CI/CD', 'Azure', 'GCP', and 'Pytest' across the profile summary, technical skills, and work experience sections. The use of bullet points and quantifiable achievements will also be easily parsed and highly rated by ATS algorithms, ensuring a strong keyword match and readability.",,"This job is an excellent match for Piyush's profile. He possesses strong Python development skills, extensive experience with Flask, Django, PostgreSQL, REST APIs, CI/CD, and cloud platforms (Azure, GCP), all explicitly mentioned as required or bonus skills. His experience as a Software Engineer at Walmart Global Tech, including technical leadership, aligns well, despite being slightly below the 3-year minimum experience requested, which is often flexible for strong candidates. The only minor ambiguity is the 'verification' aspect of the job title, which isn't a primary focus of his listed experience, though he does mention testing.",9,9
+job_1,"Job Summary: Data Engineer 2
+Data Engineer 2
+Yubi
+Bangalore Urban, Karnataka, India (On-site)
+Actively reviewing applicants
+Applied 
+
+ Job Details: About the job
+
+Data Engineer 2
+
+Position Summary:
+
+ As a Data Engineer, you will be part of a highly talented Data Engineering team. Responsible for developing reusable capabilities and tools to automate various types of data processing pipelines. You will be contributing to different stages of data engineering like data acquisition, ingestion, processing, monitoring pipelines and validating data.
+
+Your contribution will be really crucial in keeping various data ingestion and processing pipelines running successfully. Along with ensuring the data points available in the data lake are up to date, valid and usable. 
+
+Technology Experience:
+
+3+ years of experience in data engineering.
+Comfortable and hands on with the Python programming.
+Strong experience in working with RDBMS and NoSQL systems.
+Strong experience in working on AWS ecosystem with hands-on experience in working with different AWS components like Airflow, EMR , Redshift, S3, Athena, PySpark etc.
+Strong experience in developing REST APIs with Python using frameworks like flask, fastapi.
+Prior experience in working with crawling libraries like BeautifulSoup in Python would be desirable.
+Proven ability to work with SQL queries, including writing complex queries to retrieve key metrics. Skilled in connecting to, exploring, and understanding upstream data.
+Experience working with various data lake storage format types and ability to choose it based on the use cases.
+
+Responsibilities:
+
+Design and build scalable data pipelines that can handle large volumes of data.
+Develop ETL/ELT pipelines and extract the data from any upstream sources and sync with the data lakes with the format of parquet, iceberg, delta formats. 
+Optimize and ensure the data pipelines are running successfully and ensure the business continuity.
+Collaborate with cross functional teams and source all the data required for the business use cases.
+Stay up-to-date with emerging data technologies and trends to ensure the continuous improvement of our data infrastructure and architecture
+Follow best practices in data querying and manipulation to ensure data integrity.",7,"The profile is well-formatted and contains a strong density of crucial keywords such as 'Data Engineer,' 'Python,' 'ETL,' 'Airflow,' 'PySpark,' 'Flask,' 'SQL,' and 'Data Lake,' which are highly valued by ATS. However, it misses several specific AWS service keywords (EMR, Redshift, S3, Athena) and explicit mentions of data lake formats like Parquet, Iceberg, or Delta, which could slightly lower its ranking for those particular criteria. Despite these omissions, the overall keyword match for core competencies and experience level is robust enough to likely pass initial ATS screening.",,"The user's profile is a very strong match for a Data Engineer 2 role, demonstrating extensive experience in Python, ETL, scalable data pipelines, and API development, aligning well with the core responsibilities. The primary gap is the explicit mention of AWS ecosystem components (EMR, Redshift, S3, Athena), as the candidate's cloud experience leans heavily towards GCP/Azure, although common tools like Airflow and PySpark are present. The lack of specific data lake format keywords (parquet, iceberg, delta) is also a minor detractor, though general data lake experience is evident.",8,7
+job_3,"Job Summary: Software Engineer (Backend)
+Software Engineer (Backend) with verification
+Games24x7
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Company Overview:
+
+
+
+
+Games24x7 is Indias leading and most valuable multi-gaming unicorn. Were a full-stack gaming company, offering awesome game-playing experiences to over 100 million players through our products - Rummy Circle, Indias first and largest online rummy platform, My11Circle, the countrys fastest-growing fantasy sports platform.
+
+A pioneer in the online skill gaming industry in India, Games24x7 was founded in 2006 when two New York University-trained economists Bhavin Pandya, and Trivikraman Thampy met at the computer lab and discovered their shared passion for online games. Weve always been a technology company at heart, and over the last decade and a half, weve built the organisation on a strong foundation of the science of gaming, leveraging behavioural science, artificial intelligence, and machine learning to provide immersive and hyper-personalised gaming experiences to each of our players.
+
+Backed by marquee investors including Tiger Global Management, The Raine Group, and Malabar Investment Advisors, Games24x7 is leading the charge in Indias gaming revolution, constantly innovating and offering novel entertainment to players!
+
+Our 800+ passionate teammates create their magic from our offices in Mumbai, Bengaluru, New Delhi, Miami.
+
+For more information and career opportunities you may visit www.games24x7.com.
+
+
+
+
+Summary of Role
+
+
+
+
+The SDE-1 will be part of the Engineering/Development team in Play Games24x7 Pvt. Ltd. and will be responsible for taking ownership of the core products of the company. The applicant must have good communication, interpersonal, technical and analytical skills in order to take part in the collaborative and cooperative development process that delivers the high quality software we use to provide the best possible playing experience to our players. The applicant must be an expert in the Java programming language and needs to be familiar with popular IDEs, tools and scripting languages on the Linux operating system. Familiarity with an RDBMS, preferably MySQL, is essential to succeed in this position.
+
+
+
+
+Responsibilities
+
+
+
+
+ Participation in the requirements analysis, design, development and testing of applications.
+
+ The candidate is expected to write code himself/herself.
+
+ The candidate is expected to write code, code review, unit testing and deployment.
+
+ Practical application of design principles with a focus on the user experience, usability, template designs, and client server concepts.
+
+ Contributes to the development of project estimates, scheduling, and deliverables.
+
+ Works closely with QA team to determine testing requirements to ensure full coverage and best quality of product.
+
+ There is also the opportunity to mentor and guide junior team members in excelling their jobs.
+
+
+
+
+Requirements
+
+
+
+
+ BE/B. Tech. from a reputed University.
+
+ 1-3 Years of experience in software development, with emphasis on JAVA/J2EE Server side programming.
+
+ Hands on experience in Core Java, Multithreading, RMI, Socket programming, JDBC, NIO, webservices and Design patterns.
+
+ Should have Knowledge of distributed system, distributed caching, messaging frameworks, ESB etc.
+
+ Knowledge of Linux operating system and PostgreSQL/MySQL/MongoDB/Cassandra database is essential.
+
+ Familiarity with message queue systems and AMQP and Kafka is desirable.
+
+ Should have experience as a participant in Agile methodologies.
+
+ Should have excellent written and verbal communication skills and presentation skills.
+
+ This is not a Fullstack requirement, we are purely looking out for Backend resources.
+
+
+
+
+*Games24x7 is an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, disability status, or any other characteristic protected by the law.*",2,"The ATS would perform poorly due to the complete absence of critical Java-related keywords (e.g., 'Java', 'J2EE', 'multithreading', 'JDBC', 'RMI', 'socket programming') which are central to the job description. Although there are matches for general backend terms like 'Kafka', 'Linux', 'PostgreSQL', 'distributed system', 'code review', and 'B.Tech', the lack of the primary programming language keywords would almost certainly lead to immediate disqualification by the system, regardless of the resume's excellent formatting and clear structure.",,"The job explicitly requires an 'expert in the Java programming language' with 'emphasis on Java/J2EE server-side programming' and lists numerous Java-specific technologies. Piyush's profile is entirely focused on Python and related ecosystems, with no mention of Java. While his experience in backend development, distributed systems, and databases is strong, the fundamental language requirement is a complete mismatch, making the job highly irrelevant to his core skill set.",2,2
+job_4,"Job Summary: Software Engineer
+Software Engineer
+Get Well
+Bengaluru, Karnataka, India (On-site)
+Viewed
+Easy Apply 
+
+ Job Details: About the job
+
+Title: Software Engineer
+
+Reporting to: Senior Director, Product Development
+
+Location: Bengaluru (Bangalore)
+
+Opportunity
+
+Get Well is seeking a technically adept Software Engineer to implement scalable, secure services and processing systems within a regulated healthcare environment. This role is ideal for an early-career engineer eager to grow their skills in a dynamic, mission-driven team.
+
+Responsibilities
+
+Platform Development Support
+
+Assist in designing, developing, and testing microservices and APIs (REST and FHIR) to support AI agents, clinical applications, and external integrations.Implement platform components under the guidance of senior engineers and architects, ensuring alignment with enterprise goals for scalability and reliability.Write clean, maintainable, and efficient code using modern programming frameworks (e.g., Spring Boot, Node.js, or Python Flask/FastAPI).
+
+System Maintenance & Optimization
+
+
+Support the maintenance and optimization of platform services to ensure performance, scalability, and reliability in a healthcare-critical environment.
+Assist in implementing monitoring, logging, and alerting mechanisms to maintain system health and support issue resolution.
+Participate in debugging and resolving technical issues under the mentorship of senior team members.
+
+
+Compliance & Security
+
+
+Adhere to secure coding practices and healthcare regulatory requirements (e.g., HIPAA, GDPR) as directed by senior engineers and governance teams.
+Assist in implementing data privacy measures, such as encryption and access controls, to ensure compliance with healthcare standards.
+Support audit logging and documentation efforts to maintain traceability and compliance.
+
+
+Collaboration & Agile Practices
+
+
+Collaborate with cross-functional teams, including data engineers, AI/ML engineers, and product managers, to deliver integrated solutions.
+Actively participate in agile development processes, including sprint planning, daily stand-ups, and retrospectives, to contribute to team goals.
+Engage in code reviews to learn best practices and improve code quality under the guidance of senior engineers.
+
+
+Learning & Growth
+
+
+Stay informed about software engineering trends, cloud-native technologies, and healthcare interoperability standards through training and mentorship.
+Contribute to prototyping and evaluating new tools or frameworks to enhance platform capabilities.
+Actively seek feedback and apply best practices to grow technical expertise in software development.
+
+
+Requirements
+
+Education & Experience
+
+
+Bachelors or Masters degree in Computer Science or related technical discipline
+13 years of experience in software development, including internships, academic projects, or entry-level roles
+Exposure to designing or implementing backend services or APIs is a plus.
+
+
+Technical Proficiency
+
+
+Proficiency in at least one programming language such as Java, Python, or JavaScript/TypeScript for building APIs or backend services.
+Basic understanding of cloud platforms (e.g., AWS, Azure, Google Cloud) and containerization technologies (e.g., Docker) is a plus.
+Familiarity with API development frameworks (e.g., Spring Boot, FastAPI, Express.js) or version control systems (e.g., Git).
+
+
+Professional Skills
+
+
+Strong problem-solving skills with a willingness to learn and tackle technical challenges.
+Good collaboration and communication skills, with the ability to work effectively in a team-oriented environment.
+Proactive, detail-oriented, and eager to grow in a fast-paced, innovative setting.
+
+
+About Get Well
+
+Now part of the SAI Group family, Get Well is redefining digital patient engagement by putting patients in control of their personalized healthcare journeys, both inside and outside the hospital. Get Well is combining high-tech AI navigation with high-touch care experiences driving patient activation, loyalty, and outcomes while reducing the cost of care. For almost 25 years, Get Well has served more than 10 million patients per year across over 1,000 hospitals and clinical partner sites, working to use longitudinal data analytics to better serve patients and clinicians. AI innovator SAI Group led by Chairman Romesh Wadhwani is the lead growth investor in Get Well. Get Wells award-winning solutions were recognized again in 2024 by KLAS Research and AVIA Marketplace. Learn more at Get Well and follow-us on LinkedIn and Twitter.
+
+Get Well is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age or veteran status.
+
+About SAI Group
+
+
+SAIGroup commits to $1 Billion capital, an advanced AI platform that currently processes 300M+ patients, and 4000+ global employee base to solve enterprise AI and high priority healthcare problems. SAIGroup - Growing companies with advanced AI; https://www.cnbc.com/2023/12/08/75-year-old-tech-mogul-betting-1-billion-of-his-fortune-on-ai-future.html
+Bio of our Chairman Dr. Romesh Wadhwani: Team - SAIGroup (Informal at Romesh Wadhwani - Wikipedia)
+TIME Magazine recently recognized Chairman Romesh Wadhwani as one of the Top 100 AI leaders in the world - Romesh and Sunil Wadhwani: The 100 Most Influential People in AI 2023 | TIME",8,"The resume is highly optimized for ATS, featuring clear sections, standard formatting, and a strong density of relevant keywords. Key terms like 'Software Engineer,' 'Python,' 'API,' 'REST API,' 'Flask,' 'Cloud' (Azure, GCP), 'Docker,' 'Kubernetes,' 'Kafka,' 'Airflow,' 'PostgreSQL,' 'monitoring,' 'scalability,' and 'collaboration' are prominently present. While specific healthcare compliance terms (HIPAA, FHIR) are missing, the overwhelming number of direct technical keyword matches and the precise experience level fit would ensure a high ATS ranking.",,"Piyush's profile is an excellent technical match for this 'early-career' Software Engineer role. His 2+ years of experience in Python, API development (Flask, REST), cloud platforms (Azure, GCP), containerization (Docker, Kubernetes), and building scalable systems aligns perfectly with the job's core technical requirements. The primary gap is the lack of explicit experience with healthcare-specific regulations (HIPAA, GDPR, FHIR), but for an early-career position, this is often a learnable aspect rather than a strict prerequisite.",8,8
+job_0,"Job Summary: SDE II - Backend Engineer
+SDE II - Backend Engineer with verification
+Livspace
+Bengaluru, Karnataka, India (On-site)
+2 company alumni work here
+2 Walmart Global Tech India company alumni work here
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+We are seeking a talented and motivated Software Development Engineer II (SDE-II) to join our dynamic engineering team. As an SDE-II , you will be responsible for contributing to the development and maintenance of software applications. 
+
+Key Responsibilities:
+
+Write efficient, well-documented, and maintainable code using best practices.
+Analyze and troubleshoot software defects and issues, providing timely resolutions.
+Contribute to identifying and implementing improvements in the development process.
+Work closely with team members, including product managers, designers, and other developers, to deliver robust and scalable software solutions.
+Develop and execute unit tests to ensure the reliability and correctness of code.
+Collaborate with quality assurance teams to identify and address software defects.
+Create and maintain technical documentation, including design documents, coding standards, and release notes.
+Actively participate in professional development activities and seek opportunities for continuous learning.
+Strong understanding of software development fundamentals and principles.
+Knowledge of data structures, algorithms, and object-oriented design.
+Excellent problem-solving and analytical skills.
+Good communication and collaboration skills.
+Ability to work effectively in a fast-paced and dynamic team environment.
+
+
+
+
+Skills And Expertise
+
+B.Tech/B.E. in Computer Science, Information Technology, or equivalent from a top-tier institute.
+3+ years of experience with software development
+Exceptional written and verbal communication skills.
+Experience with one or more programming languages (e.g., Java, Python, Go).
+Familiarity with version control systems (e.g., Git).
+Understanding of software development methodologies (e.g., Agile, Scrum)",8,"Piyush's profile is highly optimized for an ATS, featuring excellent keyword matching for technical skills (Python, DS, Algo, System Design, Problem Solving, Communication, Collaboration), education (IIT, B.Tech), and tools (Git, Pytest). The resume is well-structured with clear sections and quantifiable achievements. The primary hurdle for the ATS would be the '3+ years of experience' requirement, as Piyush's full-time experience is slightly under this threshold, which could trigger a filter depending on the ATS's strictness.",,"The job is a decent match for Piyush's profile, particularly due to his strong Python skills, experience with scalable systems, and top-tier education. However, the job requests 3+ years of experience, while Piyush has approximately 2 years and 2 months of full-time experience. Additionally, his profile leans heavily into Data Engineering and Big Data, whereas the job description is for a more generic 'Backend Engineer' role without specific mention of data-intensive backend work, making it not an ideal, but still a viable, fit.",7,7
+job_6,"Job Summary: Software Engineer
+Software Engineer with verification
+IQVIA
+Bengaluru, Karnataka, India (Hybrid)
+Company review time is typically 1 week
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Role : Software development Engineer
+
+Experience : 1 Years to 3 Years
+
+Job Location : Kochi/Bangalore
+
+
+
+
+Job Description Summary
+
+We are seeking a motivated and skilled MDM Developer to join our dynamic team focusing on Reltio MDM and ETL processes. The ideal candidate will possess 1 to 2 years of experience in ETL development, SQL queries and a strong background in database management. This role requires a proactive individual who can work collaboratively with project leads and independently manage tasks with good judgment.
+
+
+
+
+Responsibilities:
+
+Collaborate closely with project leads to execute assigned tasks effectively.
+Design and develop MDM and ETL interfaces tailored to client specifications ensuring alignment with business objectives.
+Provide support in identifying and resolving production issues ensuring minimal disruption to operations.
+Document work procedures and processes in accordance with established standards maintaining comprehensive records.
+Deliver high-quality code to the QA team ensuring thorough testing and validation.
+Participate actively in peer reviews to uphold coding standards and improve overall code quality.
+Maintain and update standards documents ensuring compliance with organizational policies.
+Adhere to Quality Information Management System (QIMS) policies and standards promoting best practices.
+Demonstrate a solid understanding of the Software Development Life Cycle (SDLC).
+Experience with Agile or iterative development methodologies is advantageous.
+Exhibit strong communication and collaboration skills fostering a positive team environment.
+Quickly grasp complex concepts and processes applying them effectively in project tasks.
+Display excellent time management and organizational skills prioritizing tasks efficiently.
+Work independently with minimal supervision exercising sound judgment in decision-making.
+
+
+
+
+Technical Skills/Experience:
+
+1 to 3 years of experience in ETL development with proficiency in SQL queries and database management.
+Hands-on experience with any ETL tool for at least 1 year.
+Familiarity with Reltio MDM.
+Proficient in Oracle PL/SQL with the ability to write and optimize queries.
+Knowledge of REST API and JSON is a plus.
+Experience with Python and/or Java is beneficial enhancing integration capabilities.
+
+
+
+
+Additional Information:
+
+Shift: General shift
+Work Mode: Hybrid with locations in Bangalore/Kochi/Pune
+Candidates should be willing to work from the office twice a week.",6,"Piyush's resume contains many strong keywords like 'Software Engineer,' 'ETL,' 'Python,' 'SQL,' 'REST API,' and specific tools like 'Airflow' and 'PySpark,' which will score well. However, the critical and frequently mentioned keywords 'Reltio MDM' and 'MDM developer' are entirely absent. An ATS heavily weighted for these specific terms, given the job's focus, would likely flag this as a significant mismatch, despite the presence of other relevant skills.",,"Piyush's profile is a strong match for the general Software Engineer and ETL development aspects, fitting the experience range and possessing excellent Python, SQL, and cloud-based ETL skills. However, the job description heavily emphasizes 'Reltio MDM' and the role of an 'MDM developer,' which are specific areas Piyush's profile does not cover. This significant gap in a core requirement lowers the overall relevance.",6,6
+job_5,"Job Summary: Software Engineer
+Software Engineer with verification
+BrightEdge
+India (Remote)
+Actively reviewing applicants
+Applied 
+
+ Job Details: About the job
+
+Job Description: Full Stack Engineer
+
+Location: INDIA, Remote
+
+Experience: 4  6 years
+
+Employment Type: Full time
+
+About the Role:
+
+We are looking for a highly skilled Full Stack Engineer with 4 6 years of experience who is proficient in JavaScript, ReactJS, Python, databases, and cloud platforms (AWS/GCP). The ideal candidate should have experience working in fast-paced environments, preferably in startups, and be comfortable handling both front-end and back-end development.
+
+
+
+
+Key Responsibilities:
+
+Design, develop, and maintain scalable web applications using ReactJS and Python.
+Build and optimize APIs and backend services for high performance and scalability.
+Work with databases (SQL/NoSQL) for data modeling and efficient storage solutions.
+Deploy, manage, and optimize applications in AWS/GCP cloud environments.
+Collaborate with cross-functional teams to define, design, and ship new features.
+Ensure application security, performance, and maintainability.
+Troubleshoot, debug, and upgrade existing applications.
+Follow best practices in coding, testing, and DevOps for continuous improvement.
+
+
+
+
+Required Skills & Qualifications:
+
+4  6 years of experience in full stack development.
+Expertise in JavaScript (ReactJS), Python, and backend development.
+Strong knowledge of databases (SQL & NoSQL) and data management.
+Experience with AWS or GCP cloud services for deployment and infrastructure management.
+Familiarity with microservices architecture, RESTful APIs, and serverless computing.
+Understanding of CI/CD pipelines, Docker, and Kubernetes is a plus.
+Experience working in fast-moving, startup environments.
+Strong problem-solving skills, ability to work independently and in a team.
+
+Why Join Us?
+
+Opportunity to work on cutting-edge technology in a dynamic environment.
+A fast-paced startup culture with rapid learning and growth opportunities.
+Competitive salary, flexible work environment, and exciting challenges.",5,"The profile contains a high density of relevant keywords (Python, JavaScript, ReactJS, SQL, GCP, Docker, Kubernetes, CI/CD, APIs, Backend, etc.), which an ATS would pick up favorably. However, the most significant hurdle is the experience mismatch (2.5 years vs. 4-6 years required), which is a common hard filter for ATS systems and would likely significantly lower the score or even disqualify the application in the initial screening phase.",,"The primary mismatch is the required 4-6 years of experience versus the user's approximately 2.5 years of professional experience. While there's a good technical overlap in backend, cloud, and databases, the job's strong emphasis on ReactJS for a 'Full Stack Engineer' isn't a prominent part of the user's recent, extensive professional experience, which leans more towards data engineering and backend services.",3,3
+job_8,"Job Summary: Quant Developer
+Quant Developer
+OptimusPrime Securities and Research LLP
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Job Description: Quant Developer
+
+
+
+
+Job Summary
+
+
+
+
+As a Quant Developer at OptimusPrime Research, you will work closely with quantitative researchers and traders to design, implement, and optimize high-performance trading algorithms and analytical tools. You will play a key role in bridging the gap between research and production, ensuring that our strategies are robust, scalable, and efficient.
+
+
+
+
+Key Responsibilities
+
+
+
+
+ Collaborate with quantitative researchers to implement and optimize trading strategies and models.
+
+ Develop and maintain high-performance, low-latency trading systems and infrastructure.
+
+ Design and implement tools for data analysis, back testing, and simulation of trading strategies.
+
+ Work with large datasets to build and improve data pipelines for research and production.
+
+ Ensure code quality, reliability, and scalability through rigorous testing and code reviews.
+
+ Stay up-to-date with the latest technologies and methodologies in quantitative finance and software development.
+
+ Troubleshoot and resolve issues in real-time trading environments.
+
+
+
+
+Qualifications
+
+
+
+
+o Bachelors, Masters, or PhD in Computer Science, Mathematics, Physics, Engineering, or a related field.
+
+o 2+ years of experience in software development
+
+o Strong programming skills in C++. Experience with Python libraries (e.g., NumPy, pandas, scikit-learn) is a plus.
+
+o Experience with high-performance computing, parallel processing, and low-latency systems.
+
+o Familiarity with financial markets, trading concepts, and quantitative finance.
+
+o Strong problem-solving and analytical skills.
+
+o Excellent communication and collaboration abilities.
+
+o Ability to work in a fast-paced, dynamic environment.",5,"The resume is well-formatted and contains many general software development and data engineering keywords like Python, distributed computing, data pipelines, and scalability. However, it lacks crucial domain-specific keywords such as 'quantitative finance,' 'trading,' 'low-latency trading systems,' and a strong emphasis on C++, which an ATS would prioritize for a 'Quant Developer' role, likely resulting in a moderate match score.",,"While Piyush possesses strong software development and data engineering skills, and a solid academic background from IIT, the job explicitly requires strong C++ proficiency and familiarity with quantitative finance and trading concepts. His profile heavily emphasizes Python-based data engineering and lacks any direct experience or mention of financial markets or low-latency trading systems, making it a significant domain mismatch.",4,4
+job_7,"Job Summary: Software Engineer
+Software Engineer with verification
+Squarepoint
+Bangalore Urban, Karnataka, India (Hybrid)
+Company review time is typically 1 week
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Position Overview:
+
+Manage delivery of strategic initiatives in Order entry and Drop copy flows, owning projects from start to finish.
+Work closely with developers and stakeholders on business and technical scoping of new projects.
+Gather and refine requirement for venue onboarding both from internal and external stakeholders, coordinate and deliver implementation from front to back.
+Write and review technical documentation such as exchange specifications, migration plans.
+Own migrations such as hardware changes or moving our applications from classic to new generation platforms.
+Clearly identifying and resolving blockers for our development teams from external dependencies.
+Provide regular progress status reporting to stakeholders,
+Manage communication with external vendors, exchanges, and providers to push forward the interests of the firm
+Identify efficiency gaps on the team and work diligently to resolve them
+
+
+
+
+Required Qualifications:
+
+Bachelors degree in Computer Science, Engineering, or related subject
+Atleast 2 years of relevant experience as systems integrator and exposure to Exchange Connectivity.
+Proficiency in Linux OS
+Proficiency in FIX protocol
+Good understanding of Trade Life Cycle.
+Experience with Business-Driven Software integration, Application Lifecycle Management, Change and Release management.
+Great communication skills, both verbal and written.
+Ability to clearly articular concepts in both a technical and non-technical manner
+Highly organized with excellent attention to detail
+Experience with Jira and Confluence
+
+
+
+
+Nice to have:
+
+Project management / technical business analyst experience
+Proficiency in C++ or Python
+Familiarity with CI/CD pipelines
+Financial knowledge across various asset classes .",5,"The profile contains many relevant keywords like 'Software Engineer,' 'Python,' 'Linux,' 'CI/CD pipelines,' and 'Fintech,' which align well with the job description. However, the ATS would likely flag the absence of crucial required keywords such as 'systems integrator,' 'exchange connectivity,' and 'FIX protocol,' which are central to the role's requirements. The lack of explicit mention of 'Jira' and 'Confluence' also contributes to a lower keyword match for an ATS.",,"The user's strong background as a Software Developer and Data Engineer with experience in Fintech, distributed computing, and CI/CD offers some transferable skills. However, the job specifically requires experience as a 'systems integrator' with 'exchange connectivity' and 'FIX protocol,' which are not explicitly demonstrated in the user's profile. This creates a significant gap in core required qualifications, making the match less direct for this specialized role.",5,5
+job_9,"Job Summary: Python Developer
+Python Developer with verification
+CAST
+Greater Bengaluru Area (Hybrid)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+About CAST
+
+Businesses move faster using CAST technology to understand, improve, and transform their software. Through semantic analysis of source code, CAST produces 3D maps and dashboards to navigate inside individual applications and across entire portfolios. This intelligence empowers executives and technology leaders to steer, speed, and report on initiatives such as technical debt, GenAI, modernization, and cloud. As the pioneer of the software intelligence field, CAST is trusted by the worlds leading companies and governments, their consultancies and cloud providers. See it all castsoftware.com.
+
+
+
+
+Role Expectations: 
+
+The successful candidate will be an intelligent, highly energetic self-starter with excellent communication, technical skills with a solid technical background in the application development world. Experience of working in Automation, DevOps, scripting is mandatory. 
+
+Prior experience in working with SQL Queries would be a big plus. 
+
+And you love and understand complex technologies, and always seek out engaging technical discussions and has the appetite to work in a fast-paced consulting environment.
+
+
+
+
+Responsibilities: 
+
+You will help address AIP (CASTs product) integration with various customers DevOps pipeline, proposing solutions to optimize their onboarding and rescans, writing scripts to automate client manual activities and handling infrastructure activities in order to automate as much as possible. You will achieve this by working closely with our Managed Services team in our Bangalore office (which is our internal client). 
+
+You will leverage the tools & expertise from our corporate Information Technology team located in France and in Bangalore.
+
+
+
+
+Role combines a thorough understanding of the product and recommending the CAST solutions. 
+
+
+
+
+Solution Oriented Mindset
+
+Lead project in all technical aspects of tooling and DevOps
+Proactively lead tools new versions release cycle and documentation
+Proactively identify risks related to application /deliverables and propose a mitigation plan
+Provide custom solutions as per customer requirements
+
+
+
+
+Autonomy & Problem Solving Mindset
+
+Work in complete autonomy to deliver project deliverables, for advanced technical deliverables, with required level of quality
+Must have troubleshooting skills 
+
+
+
+
+Agile Mindset
+
+Contribute to improvement of internal process, tooling, and quality process
+Design, build and collect technical materials as part of project executions in a spirit of reusability for future engagements and maintain knowledge on best practices, tools, and reusable components for CAST analysis
+
+
+
+
+Experience of the AD world, excellent problem solving & solution-oriented skills, communication skills and a very strong drive are key characteristics for success. 
+
+
+
+
+Qualifications:
+
+Bachelors Degree (or equivalent) in a technical discipline.
+Minimum of 2+ years of strong hands-on knowledge of Python 3.
+Strong hands-on experience in relational DB using PostgreSQL/ MySQL/ MSSQL/ Oracle etc.
+Knowledge of GIT / GitHub or any SCM tool is essential.
+Knowledge of Atlassian tools like Jira, Confluence is an added advantage.
+Understanding of CI/CD (Jenkins / TeamCity / Bamboo / Gitlab pipelines).
+Some exposure to J2EE/.Net technologies will be an added advantage.
+Should be able to research and learn new technologies rapidly.
+Excellent communication skills (oral and written) including an ability to communicate effectively at senior levels within client organizations.
+Strong knowledge of the Application Development world is mandatory.
+Ability to work independently toward stated business goals.",9,"The user's profile is exceptionally well-structured for an ATS, featuring a dedicated 'Technical Skills' section that captures nearly all required and advantageous keywords like Python, SQL, DevOps, CI/CD, Git, and specific database/cloud technologies. The clear formatting, quantifiable achievements, and direct alignment of experience with job requirements would ensure a high match rate and strong ATS performance. The resume's clean layout and standard sections also contribute to easy parsing.",,"This job is an excellent match for Piyush's profile. His extensive experience in Python, SQL, DevOps, CI/CD, cloud platforms (Azure, GCP), and building scalable data solutions directly aligns with the core responsibilities of automating client activities, integrating products with DevOps pipelines, and leading technical aspects of tooling. His 2.5+ years of experience and strong technical background make him a highly relevant candidate, with only minor aspects like direct 'consulting environment' experience being less explicit.",9,9
+job_10,"Job Summary: Software Development Engineer II (BFSI)
+Software Development Engineer II (BFSI) with verification
+Rupeek
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Applied 
+
+ Job Details: About the job
+
+About Rupeek:
+
+Rupeek, established in 2015 and headquartered in Bangalore, stands as India's leading asset-backed digital lending fintech platform. Committed to making credit accessible to Indians in a fair and convenient manner, Rupeek pioneers innovative financial products focused on monetizing India's $2 trillion gold market. Leveraging state-of-the-art technology and an automated asset-light supply chain, Rupeek is transforming the gold loan disbursal landscape across 40+ cities in India. With a customer base exceeding 5,00,000+, the company's strategic partnerships with top banks and financial institutions underscore its commitment to building gold-backed assets through low-risk, low-touch, and friction-free processes. Rupeek's impressive journey is supported by key investors such as Sequoia Capital, Accel Partners, Bertelsmann, and GGV Capital. Join us in redefining the future of finance through innovation, technology, and a commitment to financial incivility.
+
+
+
+
+Job Title: Software Development Engineer - II
+
+Education: B.Tech / Dual Degree with Computer Science as a major discipline, MCA.
+
+Experience: 4.5-7 Years
+
+Location: Bangalore
+
+
+
+
+Must Have: 
+
+ Understanding of algorithms and data structures
+
+ Should have worked with MVC frameworks, web / client-based server architecture, and structured and unstructured databases.
+
+ Ability to translate product spec to engineering actionable
+
+ Ability to navigate and structure code bases
+
+ Rudimentary skills around service hosting and infrastructure. Should understand the end-to-end deployment cycle
+
+ Experience with Java / Spring-boot Or Node.JS is required.
+
+
+
+
+Role: 
+
+A typical SDE2 is expected to take up the following responsibilities:
+
+
+
+
+ Work closely with Team Leads and Product Managers to gather data and estimate project timelines.
+
+ Should be able to understand product specifications and come up with optimal scalable solutions.
+
+ Should be aware of the Agile working model and follow JIRA hygiene
+
+ Complete ownership of features worked upon should be able to perform RCAs and provide quick resolution of relevant issues/production bugs while training Tech Support Engineers to offload recurring chunks of work.
+
+ Should be a full-time mentor for SDE1s and be able to assist all other SDE1s as and when required.
+
+ Be part of the lateral hiring process and allocate fixed bandwidth for interviewing processes.
+
+ Should strive to follow best coding practices throughout designing, development, and testing.
+
+ Should have great communication skills over email and in-person discussions.",,,"429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: ""generativelanguage.googleapis.com/generate_content_free_tier_requests""
+  quota_id: ""GenerateRequestsPerMinutePerProjectPerModel-FreeTier""
+  quota_dimensions {
+    key: ""model""
+    value: ""gemini-2.5-flash""
+  }
+  quota_dimensions {
+    key: ""location""
+    value: ""global""
+  }
+  quota_value: 10
+}
+, links {
+  description: ""Learn more about Gemini API quotas""
+  url: ""https://ai.google.dev/gemini-api/docs/rate-limits""
+}
+, retry_delay {
+  seconds: 4
+}
+]",,,
+job_11,"Job Summary: Software Engineer
+Software Engineer with verification
+Publicis Sapient
+Bengaluru, Karnataka, India (Hybrid)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+4+ years of strong development skills in Java with JDK 1. 8 & above version & Microservices with Spring boot/ Spring. Should have strong acumen in Data Structures, Algorithms, problem-solving and Logical/Analytical skills. Thorough understanding ofOOPS concepts, Design principles and implementation of different type of Design patterns. Soundunderstandingof concepts likeExceptionalhandling,Serialization/Deserialization and Immutability concepts, etc. Good fundamental knowledge in Enums, Collections,Annotations, Generics,Auto boxing, etc. Experience with Multithreading, Concurrent Package and Concurrent APIs Basic understanding of Java Memory Management (JMM) including garbage collections concepts. Experience in RDBMS or NO SQL databases and writing SQL queries (Joins, group by, aggregate functions, etc.) Experience with at-least one NoSQL (Any of Cassandra/Couch base/Hadoop), Hands-on experience with JMS Hands-on experience in creating RESTful webservices and consuming webservices 
+
+
+
+
+ramya.n@publicissapient.com",2,"The ATS would perform poorly due to the critical absence of primary keywords like 'Java', 'Spring Boot', 'Spring', and 'JMS'. While keywords such as 'data structures', 'algorithms', 'SQL', 'REST APIs', and 'distributed computing' would match, the core language and framework requirements are completely missing, which would likely lead to an automated rejection or a very low ranking by the system.",,"The job description explicitly requires 4+ years of strong development skills in Java with JDK 1.8+ and Microservices with Spring Boot/Spring. Piyush's profile is almost entirely focused on Python, PySpark, Flask, and Django. While he possesses strong general software engineering skills, data structures, algorithms, and experience with databases and REST APIs, the core technology stack is a fundamental mismatch, making the job highly irrelevant to his current expertise.",2,2
+job_12,"Job Summary: SDE-II (Backend)
+SDE-II (Backend)
+1% Club
+Bengaluru, Karnataka, India (On-site)
+Viewed
+Easy Apply 
+
+ Job Details: About the job
+
+About 1% Club
+
+1% Club is on a mission to make Financial Independence a reality.
+
+In under two years, weve built multiple large, profitable businesses under one brand  from financial education and SEBI-registered investment advisory to insurance and credit card services.
+
+Backed by Nikhil Kamath (Zerodha) and a 10 crore fundraise, we also grew an organic distribution of 80 lakh+ followers among Indias English-speaking middle class.
+
+Now, were using this strong foundation to build a tech-first, AI-driven wealth management platform  solving everything money in one seamless app.
+
+At 1% Club, youll take products from zero to scale, solve deeply technical, user-first problems, and build for millions. If you want to shape the future of how India manages its wealth  this is the place.
+
+What will you do?
+
+Youll be working on the core systems behind a platform that's redefining how millions of Indians manage their money, with real-time applications, AI copilots, and blazing-fast apps.
+
+Youll have end-to-end ownership of features, working directly with the CTO and founding team to take ideas from whiteboard to production.
+
+We care less about what stack youve used and more about how you think. You should be fluid across tech, know the why behind every decision, and treat speed and stability like religion. If you can write clean code, debug production like a ninja, and nerd out on system-level optimization, wed love to have you.
+
+Key Responsibilities
+
+
+Design, develop, and maintain robust microservices in GoLang, with clean abstractions, high reliability, and readiness for scale. 
+Mentor junior engineers, review code, and help maintain a high bar for technical excellence. 
+Work closely with Product Managers, Designers & Backend Engineers to deliver seamless user experiences. 
+Break down complex user problems into simple, scalable backend solutions. 
+Own entire features end to end, taking responsibility for coding, unit testing, bug fixing & documentation. 
+Participate in architectural discussions, contribute to the tech roadmap, and drive technical strategy. 
+
+
+Youll be a great fit if you have
+
+
+24 years of experience in a Backend SDE role, preferably in a fintech company. 
+Strong proficiency in GoLang and experience with other programming languages such as JavaScript, TypeScript. 
+Familiarity with DevOps tools and practices such as CI/CD pipelines, familiarity with AWS. 
+Ownership and obsession with the product. 
+Willingness to learn and adapt to new technologies and tools. 
+
+
+Bonus points
+
+
+You can use AI to automate grunt work and 10x your output 
+You have a good eye for details 
+You think like a product owner, not just an engineer 
+You have worked at a FinTech before 
+
+
+Perks and Benefits
+
+
+BYOS (Build Your Own Setup): Mac/Windows/Linux, iPad, Monitors - anything you need to work comfortably. 
+Work hard, Party harder: Company offsite, team lunch/dinner, game nights, and day outings are a few of the many things youll experience if you work out of the Bengaluru office. 
+Highly competitive salary: We offer above-market salary & equity packages. 
+
+
+Hiring Process
+
+You can check out our hiring process from here.
+
+Apply now to join our team!
+
+Skills: aws,debugging,ci,go (golang),microservices,code,javascript,ci/cd,cd,typescript,system-level optimization,golang",4,"The ATS would likely flag this profile due to the complete absence of 'Golang' and 'AWS', which are explicit and critical keywords in the job description. While there are matches for 'JavaScript', 'CI/CD', 'Fintech', and 'System Design', the lack of the primary language and specified cloud platform would significantly lower the ATS score, potentially leading to early disqualification.",,"The user's extensive experience in backend development, distributed systems, and fintech domains at a large tech company aligns well with the job's scope and industry preference. However, the critical requirement for strong Golang proficiency is a major mismatch, as the user's profile is heavily Python-centric with no mention of Go.",6,5
+job_13,"Job Summary: Software Engineer ( Data Platform )
+Software Engineer ( Data Platform )
+Sundial
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+About Sundial
+
+Sundial is a top VC-backed early-stage startup headquartered at San Francisco Bay Area, US with a second office in Bengaluru, India. We have raised $23M to build the analytics platform for the AI era. Our founders are industry veterans Chandra Narayanan, previously Chief Data Scientist at Sequoia Capital, and Julie Zhuo, previously VP, Design and Research at Facebook, author of a bestselling management book. We are a small team of top talent, high caliber Engineers, Data Scientists, Designers and PM (currently 49 in India, 5 in US) and rapidly growing.
+
+
+
+
+We are on a mission to help builders make meaningful use of data to fulfill their vision. Sundial automatically diagnoses a product's data to explain the ""what"" and the ""why"" to enable faster and better decision making.
+
+
+
+
+Now Pull up a chair! We're excited to tell you more about our vision for Sundial! By now, you've probably visited our website and maybe our LinkedIn page and browsed around the profiles of our team members. If you haven't yet, please take a moment to do so. We'll wait 
+
+
+
+
+Okay, now you know at a high level that we are focused on data storytelling. The data space has over $100B in market opportunity ahead of it, and modern Business Intelligence tools are growing at over 15% year over year.We've seen this evolution firsthand. Our co-founders Chandra Narayanan and Julie Zhuo cut their teeth scaling Facebook from a few million college students to billions of people.
+
+
+
+
+To make the best decisions possible, companies are investing more and more into understanding their data. And yet, demand far outpaces supply for Data Scientists and Data Platform Engineers who can construct useful narratives out of the growing firehose of raw data, tables and charts. Currently most data-centric organizations have a large Data Platform and Data Science team that builds Big Data Platforms, Insights Data stores to bring data into dashboards and manually generates reports to communicate the product story broadly. But a large part of this process can be easily productised.
+
+
+
+
+At Sundial, we're building a Sundials Insights Data Platform. This platform converts raw data in large Data Warehouses into a universe of deep product insights that product teamsincluding PMs, data scientists, executives and engineersconsume easily. This involves Highly Scalable, Robust Distributed Data Platform which can consistently, repeatably run complex Data Science and Transformation algorithms at Cloud Scale.
+
+
+
+
+We envision a future where every organization becomes a data-informed organization through our work of:
+
+Productising the diagnostic analysis of yesterday so teams can focus on the strategic bets for tomorrow.
+Making data understanding easy and accessible to everyone, not just data scientists.
+Surfacing opportunities of improvement in growth across segments
+
+We believe better usage of data leads to better products, and better products lead to better experiences for people.
+
+
+
+
+Responsibilities:
+
+Sundials Big Data Ingestion and Processing System and Sundials Datalakehouse which stores the Metric, Entity and Event Stores.
+You will work on Big Data technologies like Spark, Athena, Delta Lake, Cloud Data Warehouses etc.
+Building out Sundials Petabyte Scale Data Processing systems, No-Code / Low-Code Transformation systems etc.
+Building the Analytics-as-a-Platform engine that runs novel algorithms and frameworks through transforming clients data to Sundial Data Models.
+Building out Sundials SaaS Data Platform in Public Cloud.
+Work with customers and data scientists to understand the data gaps and expand the Analytics Model
+Designing and building systems and features from scratch at rapid pace and high quality.
+
+
+
+
+Requirements:
+
+Strong Software Engineering fundamentals, Computer Science fundamentals, coding and design capabilities. Minimum 3-5 years of experience working in Data Platform.
+Experience building Data Platforms, Data Engineering and Distributed Systems / Products for Analytics and Data-Science products.
+Familiarity with big data processing engines like Spark, Athena, and popular Cloud Datawarehouses and Datalakes.
+Familiarity with building backend systems and services for SaaS products in the Cloud using Cloud services. We use EMR, EKS, RDS, Opensearch, etc.
+Experience working with various languages like Python, Golang, Pyspark, SQL etc.
+A Bachelors or Masters in Computer Science or work experience in related field.
+Have prior experience working in a fast pace start up environment.
+
+
+
+
+You will probably like working with us if:
+
+You like the ownership, camaraderie and chaos of a start-up environment - Start-ups are not right for everyone. Things move quickly and change frequently. Start-ups haven't ""made it"" yet. We have to convince customers we are valuable enough to them. We must be scrappy and flexible. Everyone will wear lots of hats. But: if you have future aspirations of being an entrepreneur or leader, you'll find few better learning grounds. You'll learn by doing. You'll be given a ton of trust and responsibility. You'll see very transparently how we operate and make decisions. Your work will absolutely matter to the success of our company.
+You value learning and have a growth mindset - Sundial is founded on the idea that slope is far more important than intercept. We are a learning environment, and all of us have something to teach and learn from each other. We invest heavily in learning sessions, sharing insights, and reflecting on our growth.
+You're interested in understanding how companies grow, and how data plays a role - Unlocking the secrets of data is our bread and butter. How do successful companies grow? How do different types of businesses create value for users in an economically scalable way? If you find this area to be as fascinating as we do, that's awesome, because you're going to become an expert in this domain. :)
+
+
+
+
+Benefits: 
+
+ Competitive salary & options packageA rewarding compensation structure that includes competitive pay and equity, ensuring your contributions are valued.
+
+ Global culture  Collaborate with diverse teams across San Francisco and Bangalore, gaining exposure to international perspectives.
+
+ Unlimited vacation daysA trust-based policy encouraging you to recharge and return at your best.
+
+ Food in the Office  Enjoy daily lunch at the office, with the freedom to choose what you want to eat.
+
+
+
+
+Interested? Wed love to hear from youapply now!
+
+
+
+
+
+",9,"Piyush's profile is highly optimized for an ATS. It contains a high density of relevant keywords such as 'Software Engineer,' 'Data Engineer,' 'Big Data,' 'PySpark,' 'Python,' 'Distributed Computing,' 'Data Lakehouse,' 'Kafka,' 'Airflow,' 'Azure,' 'GCP,' 'Databricks,' and 'BigQuery,' which are directly mentioned or conceptually align with the job description's requirements. The clear, structured format with bullet points and explicit technology lists under each role ensures excellent parsability and a strong keyword match, making it very likely to pass initial automated screening.",,"The technical fit for this role is exceptionally strong. Piyush's experience in Python, PySpark, Big Data, Distributed Computing, ETL frameworks, Data Lakehouse, and cloud platforms (Azure, GCP) aligns almost perfectly with the job's responsibilities and required technologies. The main considerations are that his 2.5 years of relevant experience are at the lower end of the 3-5 year requirement, and he comes from a large corporate environment (Walmart Global Tech) rather than a startup, which the job description explicitly values.",8,8
+job_14,"Job Summary: Backend Software Engineer
+Backend Software Engineer with verification
+Doxel
+Bengaluru, Karnataka, India (Remote)
+Actively reviewing applicants
+Applied 
+
+ Job Details: About the job
+
+Construction is the 2nd largest industry in the world (4x the size of SaaS!). But unlike software (with observability platforms such as AppDynamics and Datadog), construction teams lack automated feedback loops to help projects stay on schedule and on budget. Without this observability, construction wastes a whopping $3T per year because glitches arent detected fast enough to recover.
+
+Doxel AI exists to bring computer vision to construction, so the industry can deliver what society needs to thrive. From hospitals to data centers, from foreman to VPs of construction, teams use Doxel to make better decisions everyday. In fact, Doxel has contributed to the construction of the facilities that provide many of the products and services you use everyday.
+
+We have classic computer vision, deep learning ML object detection, a low-latency 3D three.js web app, a complex data pipeline powering it all in the background. Were building out new workflows, analytics dashboards, and forecasting engines.
+
+Were at an exciting stage of scale as we build upon our growing market momentum. Our software is trusted by Shell Oil, Genentech, HCA healthcare, Kaiser, Turner, Layton and several others. Join us in bringing AI to construction!
+
+The Role:
+
+As a Backend Engineer, your mission is to architect and build the resilient and scalable systems that power the intelligence behind Doxels AI-driven construction platform. You'll tackle complex infrastructure and data engineering challenges, shaping how terabytes of real-time jobsite data are processed, stored, and served. Your work will enable smarter decision-making for some of the worlds largest construction projects. Youll collaborate closely with our product, frontend, computer vision, and 3D teams to design seamless end-to-end solutionsfrom field data capture to actionable insights. If you love solving real-world problems at scale and thrive in a fast-paced, mission-driven teamthis role is for you.
+
+Who You Are:
+
+Youre a backend engineer with deep curiosity and a strong grasp of building distributed systems. You care about clean, efficient code, resilient infrastructure, and scalable architectures. Youre hungry to solve tough technical problems and improve systems that directly impact the real worldespecially in industries like construction where every decision counts.
+
+Bonus: youve worked on data-heavy platforms or have experience integrating machine learning/computer vision pipelines into production.
+
+What Youll Do:
+
+
+
+Design, build, and scale robust backend systems and pipelines for data ingestion, processing, and analytics
+Develop high-performance APIs that power real-time 3D visualizations, dashboards, and mobile tools
+Build and optimize data pipelines that support models and business logic at scale
+Collaborate across CV/ML, frontend, design, and product teams to deliver end-to-end features
+Ensure system reliability, observability, monitoring, and graceful degradation for mission-critical tools
+Leverage, AI tools, cloud infrastructure, containerization, and CI/CD best practices
+perform thoughtful code reviews, and drive backend engineering best practices
+
+
+
+
+What You Bring to Doxel:
+
+
+
+4+ years of professional experience as a backend or systems engineer
+Strong proficiency in modern backend languages like Python, Go, or Node.js
+Have a test driven development approach. You are someone who believes testing is not an afterthoughtit's the foundation. You write tests before code, care deeply about code quality, and value software you can trust
+Experience designing and maintaining scalable APIs and microservices
+Experience of working with Computer vision algos at scale is a Plus
+Proven track record of building and maintaining data pipelines, ideally with real-world complexity
+Deep knowledge of distributed systems, asynchronous processing, and message queues 
+Experience working with cloud platforms (AWS/GCP/Azure) and containerized environments (Docker, Kubernetes)
+Comfortable with CI/CD, monitoring, testing, and automation
+Excellent debugging, profiling, and system design skills
+Great communicator and collaborator; able to break down complex problems clearly
+Bonus: experience working with computer vision models, 3D data, or unstructured media pipelines
+
+
+
+
+Perks & Benefits:
+
+
+
+Comprehensive health, dental, and vision insurance for you and your family
+Unlimited PTO + flexible work environment
+Generous parental leave
+Opportunity to work at the cutting edge of AI and real-world impact
+A culture that values autonomy, ownership, and meaningful engineering
+
+
+
+
+Doxel is an equal opportunity employer and actively seeks diversity across our team. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",9,"Piyush's resume would perform exceptionally well under an ATS. It's well-formatted with clear sections and bullet points, making it easily parsable. There's a high density of direct keyword matches for critical skills like 'Python', 'scalable systems', 'data pipelines', 'APIs', 'distributed systems', 'Kafka', 'GCP', 'Azure', 'Docker', 'Kubernetes', 'CI/CD', and 'testing'. The inclusion of quantifiable achievements further strengthens its ATS performance, ensuring it passes initial automated screening with flying colors despite being slightly under the 4+ years experience mark.",,"Piyush's profile is an excellent match for this Backend Software Engineer role, particularly due to his extensive experience in designing and building scalable data platforms, ETL frameworks, and distributed systems at Walmart Global Tech. His proficiency in Python, cloud platforms (GCP, Azure), containerization, and CI/CD directly aligns with the job's core requirements. While he lacks explicit production experience with computer vision/3D data (a bonus), his foundational ML project and strong backend/data engineering skills make him a highly relevant candidate.",9,9
+job_15,"Job Summary: Python Developer
+Python Developer with verification
+L&T Technology Services
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Job Title: Senior Engineer
+
+Location: Bangalore, LTTS India
+
+
+
+
+L&T Technology Services is seeking a Senior Engineer (Experience range - 6+ years) of experience, proficient in:
+
+
+
+
+Good Hands-on Python programming
+Hands on experience in Python with knowledge of at least one Python framework.
+Experience using OOP in Python
+Good experience with Unit testing and mocking frameworks like Pytest and TDD is must.
+Hands on with REST JSON API development
+Database experience in MySQL.
+Working experience in Azure IOT & Cloud services
+Experience in GIT, Jenkins, or such build automation tools.
+Worked with IDE Pycharm.
+Good exposure to Agile/Scrum methodology
+Experience of working in Agile Development Team
+EXPERTISE AND QUALIFICATIONS
+Python IOT, Azure
+
+
+
+
+
+
+
+#AzureFunctions, #Azure, #AzureAppService, #AzureStorage, #AzureIOT, #AzureDataFactory
+
+#AzureServices, #Python, #AzureSDK",6,"The profile performs well on core technical keywords like Python, Flask/Django, Pytest, REST APIs, and Azure, which are explicitly mentioned. The formatting is clean and standard, making it easily parsable. However, the ATS might flag the lack of explicit mentions for 'TDD', 'MySQL', 'Jenkins', 'PyCharm', 'Agile/Scrum', and specifically 'Azure IoT', and critically, the significant discrepancy in years of experience (3.5 vs 6+ years required) could lead to an automated disqualification or a lower ranking.",,"Piyush's technical skills in Python, Flask, Pytest, REST APIs, and general Azure cloud experience are a strong match for the job's core requirements. However, the most significant mismatch is the experience level; the job asks for 6+ years, while Piyush has approximately 3.5 years of full-time experience, making him significantly underqualified for a 'Senior Engineer' role based on the stated years.",5,5
+job_16,"Job Summary: Sr Backend Developer (Python)
+Sr Backend Developer (Python)
+Zetexa Global
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+About Zetexa:
+
+Zetexa Global Private Limited is a fast-growing startup led by visionary leaders from IIT and IIM. We are transforming Travel Tech, Consumer IoT, and M2M applications, focusing on B2B and B2C domains. Join our team to innovate and redefine digital experiences in a global marketplace.
+
+
+
+
+Role Overview:
+
+We are looking for a Senior Backend Developer (Python) who will play a key role in building scalable, high-performance backend systems. The ideal candidate should have expertise in Python, Django, and cloud platforms (AWS, Azure, GCP) with strong experience in distributed systems, microservices, Docker, Kubernetes, and automation testing.
+
+
+
+
+Key Responsibilities:
+
+Develop and maintain critical backend modules with well-exposed interfaces.
+Ensure seamless integration of distributed systems and microservices.
+Implement best practices in multi-threading, thread synchronization, and message bus systems.
+Write clean, scalable, and bug-free code in Python and Django.
+Design and execute unit tests, integration tests, and automation tests for regression testing.
+Set up and manage CI/CD pipelines using GitLab or Jenkins for continuous integration and deployment.
+Deploy, manage, and scale applications using Docker and Kubernetes.
+Ensure high availability, resiliency, and geographic redundancy in system architecture.
+Collaborate with cross-functional teams to enhance system performance and security.
+
+
+
+
+Must-Have Skills:
+
+Programming Languages: Python
+Web Frameworks: Django, OpenAPI/Swagger
+Databases: PostgreSQL, MySQL
+Cloud Platforms: AWS, Azure, GCP
+Hands-on experience with distributed systems and microservices
+Strong knowledge of multi-threading, message buses, and thread synchronization
+Experience in test automation, including unit and integration testing
+Proficiency in CI/CD pipelines setup and management
+Containerization & Orchestration: Docker, Kubernetes
+
+
+
+
+Note: Only relevant skills and experienced canididates are encouraged to apply.
+
+
+",9,"The profile is exceptionally well-structured and keyword-rich, ensuring high visibility for an ATS. It hits most 'must-have' keywords like Python, distributed systems, microservices, Docker, Kubernetes, CI/CD, Azure, GCP, and PostgreSQL multiple times. Although specific mentions of Django in recent work, AWS, MySQL, or OpenAPI/Swagger are less prominent or absent, the sheer volume and relevance of other matching keywords, combined with excellent formatting, would allow it to pass with flying colors.",,"Piyush's profile is a strong match for a Senior Backend Developer role, especially given his extensive experience with Python, distributed systems, cloud platforms (Azure, GCP), Docker, Kubernetes, and CI/CD at a major tech company. While his recent work has a data engineering focus, the underlying backend and platform skills are highly transferable and align well with the job's core requirements. The primary gap is the explicit 'must-have' Django experience, as his profile highlights Flask more prominently for web services, which might be a minor detractor.",8,8
+job_18,"Job Summary: Data Engineer
+Data Engineer with verification
+BayOne Solutions
+Bengaluru, Karnataka, India (Hybrid)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Responsibilities:
+
+Design, build, and maintain data pipelines.
+Develop ETL processes for data integration.
+Build and optimize data warehouses and lakes.
+Ensure data quality and security.
+Collaborate with data scientists and analysts.
+
+
+
+
+Requirements:
+
+Bachelor's degree in CS or related field.
+Experience/Knowledge on ML is required.
+Experience with SQL, Python, and big data technologies.
+Proficiency in cloud platforms (AWS, GCP, Azure).
+Strong problem-solving and communication skills.",10,"The profile is exceptionally well-structured for an ATS, featuring a high density of relevant keywords such as 'Data Engineer,' 'ETL,' 'data pipelines,' 'Big Data,' 'Python,' 'SQL,' 'GCP,' and 'Azure.' The clear sectioning, bullet points, and explicit listing of technologies under each experience make it highly parsable and ensure strong keyword matching. Quantifiable achievements further enhance its ATS performance.",,"This job is an exceptional fit for Piyush's profile. His extensive experience in designing ETL frameworks, building data lakehouses, and working with big data technologies and cloud platforms (GCP, Azure) at a large organization like Walmart directly aligns with the job's core responsibilities and requirements. The only minor gap is professional ML experience, but his project demonstrates relevant knowledge.",10,10
+job_17,"Job Summary: Data Engineer
+Data Engineer
+Xiaomi India
+Bengaluru, Karnataka, India (On-site)
+3 school alumni work here
+3 Indian Institute of Technology (Banaras Hindu University), Varanasi school alumni work here
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Job Description:
+
+As a Data Engineer, you will be responsible for designing, implementing, and maintaining our data infrastructure to support our rapidly growing business needs. 
+The ideal candidate will have expertise in Apache Iceberg, Apache Hive, Apache Hadoop, SparkSQL, YARN, HDFS, MySQL, Data Modeling, Data Warehousing, Spark Architecture, and SQL Query Optimization.
+ Experience with Apache Flink, PySpark, Automated Data Quality testing & Data Migration is considered a plus. 
+Also, it's mandatory to know any one cloud stack (AWS or Azure) for Data Engineering to Create Data Jobs and Workflows and Scheduler it later for Automation
+
+
+
+
+Job Responsibilities & Requirements:
+
+Bachelor's degree in computer science, Information Technology, or a related field. Master's degree preferred.
+4-5 years of experience working as a Data Engineer
+Mandatory experience in PySpark Development for Big data processing
+Strong proficiency in Apache Iceberg, Apache Hive, Apache Hadoop, SparkSQL, YARN, HDFS, Data Modeling, and Data Warehousing.
+Core PySpark Development and Optimizing SQL queries and performance tuning to ensure optimal data retrieval and processing.
+Experience with Apache Flink, and Automated Data Quality testing is a plus.
+It's mandatory to know any one cloud stack (AWS or Azure) for Data Engineering to Create Data Jobs and Workflows and Scheduler later for Automation
+
+
+
+
+Join Xiaomi India Technology and be part of a team that is shaping the future of technology innovation. Apply now and embark on an exciting journey with us!",6,"The profile includes many essential keywords like PySpark, Python, SQL, Azure, Big Data, Data Modeling, and Data Warehousing, which an ATS would pick up positively. However, the ATS would likely flag the considerable experience gap (2.5 years vs. 4-5 required). Furthermore, the absence of direct keyword matches for specific mandatory technologies like Apache Iceberg, Hive, Hadoop, YARN, and HDFS would reduce the keyword match score, potentially leading to a lower ranking.",,"The user's profile aligns well with the Data Engineer role, possessing strong PySpark, Python, SQL, cloud (Azure), ETL, and big data processing skills. However, the most significant mismatch is the user's ~2.5 years of experience against the job's mandatory 4-5 years. Additionally, specific mentions of Apache Iceberg, Hive, Hadoop, YARN, and HDFS, which are listed as strong proficiencies, are absent from the profile.",6,6
+job_19,"Job Summary: Back End Developer
+Back End Developer with verification
+IDFC FIRST Bank
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Applied 
+
+ Job Details: About the job
+
+Role/Job Title:  Back End Developer
+
+Function/ Department: Information Technology
+
+
+
+
+Job Purpose:
+
+As a Backend Developer, you will play a crucial role in designing, developing, and maintaining complex backend systems. You will work closely with cross-functional teams to deliver high-quality software solutions and drive the technical direction of our projects. Your experience and expertise will be vital in ensuring the performance, scalability, and reliability of our applications.
+
+
+
+
+Key Responsibilities:
+
+Design and Develop: Architect, design, and implement high-performance Java-based backend services and applications.
+Code Quality: Write clean, efficient, and well-documented code following industry best practices and coding standards.
+Technical Leadership: Provide technical guidance and mentorship to junior developers, promoting best practices and fostering a collaborative environment.
+Collaboration: Work closely with frontend developers, product managers, and other stakeholders to understand requirements and deliver robust solutions.
+Performance Optimization: Identify and resolve performance bottlenecks and scalability issues.
+Testing: Implement comprehensive testing strategies, including unit tests, integration tests, and end-to-end tests.
+Continuous Improvement: Stay current with the latest industry trends, technologies, and best practices in Java/Golang development, and continuously improve our development processes.
+
+
+
+
+Technical Skills
+
+3+ Years of professional experience in Java/Golang backend development.
+Expert proficiency in Java/Golang and related frameworks (e.g., Spring, Spring Boot).
+Extensive experience with RESTful API design and development.
+Strong knowledge of database technologies, including SQL, MySQL, PostgreSQL, or NoSQL databases.
+Deep understanding of object-oriented programming principles and design patterns.
+Experience with version control systems (e.g., Git).
+Familiarity with microservices architecture and cloud platforms (e.g., AWS, Azure, Google Cloud).
+Experience with GraphQL
+Experience with CI/CD pipelines and tools (e.g., Jenkins, Docker)
+Experience with Jaeger for monitoring and tracing.
+Proficiency in unit testing frameworks
+Experience with containerization and orchestration tools (e.g., Kubernetes)
+Familiarity with agile development methodologies.
+Knowledge of security best practices and secure coding principles.
+
+
+
+
+Soft Skills
+
+Excellent problem-solving and analytical skills.
+Strong communication and collaboration abilities.
+Leadership skills with the ability to mentor and guide junior team members.
+Ability to work independently and manage multiple tasks effectively.
+
+
+
+
+Education Qualification:
+
+Graduation: Bachelor of Science (B.Sc) / Bachelor of Technology (B.Tech) / Bachelor of Computer Applications (BCA)
+Post-Graduation: Master of Science (M.Sc) /Master of Technology (M.Tech) / Master of Computer Applications (MCA).",3,"The ATS would perform poorly due to the critical absence of primary keywords such as 'Java', 'Golang', 'Spring', and 'Spring Boot', which are explicitly stated as essential requirements. Although the resume is well-formatted and includes many secondary matches like 'REST APIs', 'SQL', 'Docker', 'Kubernetes', 'Azure', and 'CI/CD', the lack of the core language match would likely lead to a low ranking or automatic disqualification by a strict ATS.",,"The job explicitly requires 3+ years of professional experience in Java/Golang backend development with expert proficiency in related frameworks like Spring/Spring Boot. Piyush's profile is almost entirely Python-centric, lacking any mention of Java or Golang. While he possesses strong general backend, cloud, and distributed systems experience, the fundamental mismatch in the core programming language makes this a very poor fit.",2,2
+job_23,"Job Summary: Software Engineer E4 (Backend)
+Software Engineer E4 (Backend) with verification
+Whatfix
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Applied 
+
+ Job Details: About the job
+
+Who are we ?
+
+Founded in 2014 by Khadim Batti and Vara Kumar, Whatfix is a leading global B2B SaaS provider and the largest pure-play enterprise digital adoption platform (DAP). Whatfix empowers companies to maximize the ROI of their digital investments across the application lifecycle, from ideation to training to the deployment of software. Driving user productivity, ensuring process compliance, and improving user experience of internal and customer-facing applications.
+
+Spearheading the category with serial innovation and unmatched customer-centricity, Whatfix is the only DAP innovating beyond the category, positioning itself as a comprehensive suite for GenAI-powered digital adoption, analytics, and application simulation. Whatfix product suite consists of 3 products - DAP, Product Analytics, and Mirror. This product suite helps businesses accelerate ROI on digital investments by streamlining application deployment across its lifecycle.
+
+Whatfix has seven offices across the US, India, UK, Germany, Singapore, and Australia and a presence across 40+ countries.
+
+Customers: 700+ enterprise customers, including over 80 Fortune 500 companies such as Shell, Microsoft, Schneider Electric, and UPS Supply Chain Solutions. 
+
+Investors: Raised a total of ~$270 million. Most recently Series E round of $125 Million led by Warburg Pincus with participation from existing investor SoftBank Vision Fund 2. Other investors include Cisco Investments, Eight Roads Ventures (A division of Fidelity Investments), Dragoneer Investments, Peak XV Partners, and Stellaris Venture Partners.
+
+
+
+
+With over 45% YoY sustainable annual recurring revenue (ARR) growth, Whatfix is among the Top 50 Indian Software Companies as per G2 Best Software Awards. 
+Recognized as a Leader in the digital adoption platforms (DAP) category for the past 4+ years by leading analyst firms like Gartner, Forrester, IDC, and Everest Group.
+The only vendor recognized as a Customers Choice in the 2024 Gartner Voice of the Customer for Digital Adoption Platforms has once again earned the Customers Choice distinction in 2025. We also boast a star rating of 4.6 on G2 Crowd, 4.5 on Gartner Peer Insights, and a high CSAT of 99.8%
+Highest-Ranking DAP on 2023 Deloitte Technology Fast 500 North America for Fourth Consecutive Year
+Won the Silver for Stevie's Employer of the Year 2023  Computer Software category and also recognized as Great Place to Work 2022-2023 
+Only DAP to be among the top 35% companies worldwide in sustainability excellence with EcoVadis Bronze Medal
+On the G2 peer review platform, Whatfix has received 77 Leader badges across all market segments, including Small, Medium, and Enterprise, in 2024, among numerous other industry recognitions.
+
+Roles and Responsibilities
+
+Design, develop, test, ship, and maintain backend features independently, adhering to high engineering standards.
+Break down features into executable tasks, ensuring timely delivery within sprint cycles 
+Write clear, concise, and well-tested code using Java and Spring Boot, aligned with platform capabilities.
+Ensure end-to-end ownership of features, including design documentation, testing, deployment, monitoring, and post-release improvements.
+Monitor production behavior of owned features and proactively address issues with appropriate automation and runbooks.
+Participate in and conduct code reviews that are constructive, standards-compliant, and improve team code quality.
+Collaborate closely with customer-facing teams to debug production issues and improve overall system stability.
+Align with other teams on design and integration points when touching external codebases.
+Leverage generative AI tools to improve productivity and accelerate development tasks.
+Actively contribute to sprint demos and team discussions, sharing progress and insights.
+
+Requirements:
+
+47 years of professional backend development experience, ideally in product-based internet companies or startups.
+Strong hands-on experience with Java, Spring Boot, and web services.
+Proven expertise with relational and/or NoSQL databases such as SQL, MongoDB, or Cassandra.
+Experience designing and developing scalable, distributed, and high-availability systems.
+Solid understanding of backend design principles and ability to apply them effectively.
+Strong debugging, problem-solving, and code optimization skills with a focus on performance.
+Familiarity with CI/CD, monitoring, and alerting practices for production systems.
+Exposure to or active use of generative AI tools for coding tasks.
+Fast learner with a self-starter attitude, and a strong focus on code quality and customer impact.
+Excellent written and verbal communication skills, with the ability to collaborate effectively in a team environment.
+
+Note: 
+
+We strive to live and breathe our Cultural Principles and encourage employees to demonstrate some of these core values - Customer First; Empathy; Transparency; Fail Fast and scale Fast; No Hierarchies for Communication; Deep Dive and innovate; Trust, Do it as you own it; 
+We are an equal opportunity employer and value diverse people because of and not in spite of the differences. We do not discriminate on the basis of race, religion, color, national origin, ethnicity, gender, sexual orientation, age, marital status, veteran status, or disability status",2,"The ATS would likely score this profile very low due to the complete lack of critical keywords such as 'Java' and 'Spring Boot', which are primary requirements. While some general terms like 'scalable systems' and 'CI/CD' match, the absence of the core programming language and framework, combined with the significant discrepancy in years of experience, would cause the ATS to flag this profile as a poor fit.",,"The job description explicitly requires strong hands-on experience with Java and Spring Boot for backend development, which is entirely absent from the user's Python-focused profile. Additionally, the role asks for 4-7 years of experience, while the user has approximately 2.5 years of full-time experience. Despite transferable skills in distributed systems and general backend principles, the core technology stack and experience level are significant mismatches.",3,2
+job_21,"Job Summary: Software Development Engineer- 2 (B2B SaaS)
+Software Development Engineer- 2 (B2B SaaS)
+Wisemonk
+Bengaluru, Karnataka, India (On-site)
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Job Title: Software Engineer  Systems & Infra
+
+Location: In Office - Bangalore
+
+Experience: 23 years
+
+Type: Full-time
+
+
+
+
+About Wisemonk
+
+Wisemonk is building the most trusted infrastructure to hire, pay, and support remote talent in India. We enable global companies to onboard top Indian professionals without setting up local entities or dealing with compliance chaos.
+
+Were a tight, high-caliber team from leading global enterprises and startups. With strong early traction, were scaling rapidly and building a product-led, operationally excellent company.
+
+This is a chance to work at the intersection of global employment, fintech, and automation  with real ownership and real impact.
+
+
+
+
+What You'll Do
+
+-Build foundational systems that power cross-border payments, contract workflows, and tax automation
+
+-Write high-performance, low-latency code that handles compliance-critical operations
+
+-Optimize systems for reliability, observability, and scale across regions and entities
+
+-Collaborate closely with founders, product managers, and ops to ship impactful features fast
+
+-Own your code end-to-end  from architecture to deployment to monitoring
+
+-Contribute to technical architecture decisions and lay the groundwork for scale
+
+
+
+
+You Should Apply If You Have
+
+-23 years of experience building backend systems or infrastructure tooling
+
+-Design reliable, performance-sensitive systems using low-level tools while also owning automation workflows with no-code platforms.
+
+-Strong debugging and systems design skills; you know your way around memory and logs
+
+-Prior experience in a Series A start-up or early-stage company  you're comfortable with ambiguity and velocity
+
+-Exposure to fintech or compliance-heavy systems (bonus: worked on payroll, tax, or payment rails)
+
+
+
+
+Why Join Wisemonk?
+
+-Build at the intersection of fintech, compliance, and global employment
+
+-High ownership, zero bureaucracy  ship fast, learn fast
+
+-Work with founders and a team that cares deeply about product and craft",9,"The resume is exceptionally well-formatted with clear headings and bullet points, making it highly parsable by an ATS. It contains a high density of relevant keywords directly matching the job description's technical requirements (e.g., 'systems design,' 'observability,' 'reliability,' 'backend systems,' 'Python,' 'Kafka,' 'Azure,' 'GCP'). The explicit mention of 'fintech' experience and quantifiable achievements further strengthens its ATS compatibility, ensuring a high match score.",,"The user's 2.5 years of experience in backend systems, distributed computing, and fintech aligns perfectly with the job's 2-3 years requirement and domain focus. Their proven ability to design scalable systems, handle high-volume data, and implement observability tools directly matches the core responsibilities of building foundational, high-performance infrastructure. The only minor deviation is the preference for startup experience, but the user's responsibilities indicate high ownership.",9,9
+job_24,"Job Summary: Data Engineer
+Data Engineer
+Akkodis
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Proven knowledge of coding in Python
+Advanced knowledge of regression & linear optimization (Python based, relevant libraries: pandas, numpy, scikit-learn, or-tools)
+3+years of working experience in data analytics with proven project/solution track record 
+Experience as Operations Research analyst or similar: worked with optimisation models (e.g. Integer and Linear Programming) in the past 
+Skills in data analysis & visualization (Python based, relevant libraries: pandas, numpy, plotly)",4,"The ATS would successfully match general keywords like 'Python', 'Pandas', 'Data Engineer', and 'Data Analytics'. However, it would critically miss on the highly specific and weighted keywords related to optimization and operations research, such as 'regression', 'linear optimization', 'scikit-learn', 'or-tools', 'operations research analyst', and 'optimisation models'. The absence of these crucial terms would significantly lower the ATS match score, likely causing the profile to be filtered out or ranked poorly despite excellent formatting and general technical prowess.",,"While Piyush is a highly skilled Software Developer and Data Engineer with strong Python and Big Data experience, this specific job description heavily emphasizes Operations Research, mathematical optimization (regression, linear optimization, integer/linear programming), and related libraries (scikit-learn, or-tools). Piyush's profile shows no explicit experience or keywords in these specialized areas, which are core requirements for this role. The general 'data engineer' title is misleading given the specific OR focus.",3,3
+job_22,"Job Summary: Data Engineer
+Data Engineer with verification
+EXL
+India (Remote)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+About Role:
+
+Please find below the requirements -
+
+
+
+
+Our expertise in transformation, data science, and change management helps make your business more efficient and effective, improve customer relationships and enhance revenue growth. Instead of focusing on multi-year, resource- and time-intensive platform designs or migrations, we look deeper at your entire value chain to integrate strategies with impact.
+
+
+
+
+Key Delivery: To build out a centralized data mart for Very Media Group for accessing data for insight and data modelling.
+
+
+
+
+Skillsets Required :
+
+
+
+
+SQL and Query Optimization
+
+Python (Assuming that the data mart would eventually be managed within Data Science and not Data Engineering)
+
+SAS (Desirable - A lot of the CRM processes are in SAS, but assuming we wouldn't build the process in SAS so not essential)
+
+AWS experience
+
+Data Management and Analytical skills
+
+Expertise in ETL Development and Data Integration
+
+Collaboration and Communication
+
+
+
+
+
+
+
+Mandate Experience 
+
+RDS
+
+DynamoDB
+
+Redshift
+
+Athena
+
+QuickSight
+
+Sagemaker",5,"The resume would perform moderately well for general data engineering terms like 'data engineer', 'Python', 'SQL', 'ETL development', 'data integration', 'data management', and 'collaboration'. However, the complete absence of 'AWS experience' and all the 'mandated experience' AWS services (RDS, DynamoDB, Redshift, Athena, Quicksight, Sagemaker) would heavily penalize the ATS score. While other keywords match, the lack of these critical, explicitly mandated keywords would likely result in a low match percentage and potential filtering by the ATS.",,"Piyush possesses strong core data engineering skills, including Python, SQL, ETL development, and experience with large-scale data platforms, which align well with the job's functional requirements. However, the job explicitly mandates AWS experience and specific AWS services (RDS, Redshift, Athena, etc.), none of which are present in Piyush's profile. This critical mismatch in the required cloud platform significantly reduces the overall relevance.",4,4
+job_20,"Job Summary: Software Engineer II (C, Java, ETL)
+Software Engineer II (C, Java, ETL) with verification
+Precisely
+India (Remote)
+1 connection works here
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Precisely is the leader in data integrity. We empower businesses to make more confident decisions based on trusted data through a unique combination of software, data enrichment products and strategic services. What does this mean to you? For starters, it means joining a company focused on delivering outstanding innovation and support that helps customers increase revenue, lower costs and reduce risk. In fact, Precisely powers better decisions for more than 12,000 global organizations, including 93 of the Fortune 100. Precisely's 2500 employees are unified by four company core values that are central to who we are and how we operate: Openness, Determination, Individuality, and Collaboration. We are committed to career development for our employees and offer opportunities for growth, learning and building community. With a ""work from anywhere"" culture, we celebrate diversity in a distributed environment with a presence in 30 countries as well as 20 offices in over 5 continents. Learn more about why it's an exciting time to join Precisely!
+
+Overview
+
+As a Software Engineer, you will be part of the team that designs and develops ETL applications on the Data Integration Team. You will be deeply involved in the development and unit testing of Connect ETL. You will collaborate with architects, UX experts, product managers and other software developers for developing solutions. Strong problem-solving skills, communication, and the ability to develop creative solutions are a must.
+
+What You Will Do
+
+
+Develop and test new features or product changes. 
+Work in a collaborative team environment following Agile development methodologies.
+Address and resolve issues quickly and effectively to ensure customer satisfaction.
+Investigate, analyze, debug and solve complex problems.
+Replicate customer issues in house and work closely with QA and Support teams to resolve problems when required.
+Debug issues and implement resolutions in multiple product areas across a variety of environments.
+Implement product functionality to meet customer requirements.
+Adequately document and describe product changes or features.
+Continuously learn new technology, tools, systems, and sharing knowledge within the team.
+
+
+What We Are Looking For
+
+
+Bachelors or Masters degree in Computer Science or equivalent work experience.
++2 years of developing Enterprise software.
+Strong object-oriented design and programming experience (C, Java).
+Good knowledge of CI/CD processes and knowledge of JIRA, Jenkins, GIT and Artifactory.
+Knowledge of Git, Gradle and Maven.
+Experience working with ETL/ELT products.
+Experience with big data  Hadoop/Cloudera.
+Experience with SQL databases (at least one of Oracle, DB2, SQL Server).
+
+
+The personal data that you provide as a part of this job application will be handled in accordance with relevant laws. For more information about how Precisely handles the personal data of job applicants, please see the Precisely Global Applicant and Candidate Privacy Notice.
+
+",5,"The profile contains many relevant keywords for ETL, Big Data, and SQL, and is well-formatted for ATS readability. However, the critical absence of 'Java' as a listed skill or experience, along with specific CI/CD tools (Jenkins, Maven, Gradle) and Big Data platforms (Hadoop, Cloudera) explicitly mentioned in the job description, will likely lower the ATS match score significantly due to these key omissions.",,"The job's core domain (ETL, data integration, big data, SQL) aligns exceptionally well with the user's extensive experience at Walmart Global Tech, demonstrating a strong functional match. However, the explicit and strong requirement for C and Java as primary development languages is a significant mismatch, as the user's profile is heavily Python-centric, making it a moderate fit overall.",6,5
+job_25,"Job Summary: Python Developer
+Python Developer with verification
+HCLTech
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Job Title - Ansible with Python developer.
+
+Location - Bangalore.
+
+Experience - 4+ yrs.
+
+Notice Period - Immediate to 10 days.
+
+
+
+
+Mandatory Skills:
+
+Python 
+Ansible
+Networking
+
+
+
+
+Roles and Responsibilities:
+
+Design and implement network automation solutions using Python and Ansible.
+Collaborate with cross-functional teams to identify automation opportunities within network operations.
+Develop scalable scripts and tools to automate routine network tasks and configurations.
+Monitor and optimize network performance and automation processes to ensure high availability.
+Troubleshoot and resolve network automation issues promptly.
+Document automation processes and provide training to relevant stakeholders.
+Stay updated with emerging trends and technologies in network automation.
+
+
+
+
+Skill Requirements:
+
+Bachelor's degree in Computer Science, Information Technology, or a related field.
+Proficiency in Python programming and scripting.
+Extensive experience with Ansible for network automation.
+Strong understanding of network protocols and configurations.
+Experience with network automation tools and frameworks.
+Excellent problem-solving skills and attention to detail.
+Ability to work collaboratively in a fast-paced environment.",3,"The resume is well-formatted and easily parsable by an ATS, and it strongly matches keywords like 'Python', 'Developer', 'Automation', and the required experience level. However, the critical mandatory keywords 'Ansible' and 'networking' are entirely absent from the profile. An ATS would heavily penalize this lack of direct keyword matches for core requirements, likely filtering the resume out early in the screening process.",,"While the user is a highly skilled Python developer with extensive experience in automation, system design, and cloud platforms, the job specifically requires a strong background in network automation and extensive experience with Ansible. The user's profile lacks direct mention of Ansible and deep networking expertise, which are core mandatory skills for this role, making the direct relevance moderate at best.",4,3
+job_26,"Job Summary: Python Developer
+Python Developer with verification
+Accolite
+Mumbai Metropolitan Region (Hybrid)
+Actively reviewing applicants
+Applied 
+
+ Job Details: About the job
+
+About Bounteous x Accolite
+
+Bounteous, a digital innovation partner of the world's most ambitious brands and Accolite Digital, a leading digital engineering, cloud, data & AI services provider, have announced their merger, creating a new end-to-end digital transformation services consultancy that partners with leading brands around the globe to co-innovate and drive exceptional client outcomes.
+
+It was Founded in 2003 in Chicago, Bounteous is a leading digital experience consultancy that co-innovates with the world's most ambitious brands to create transformative digital experiences. With services in Strategy, Experience Design, Technology, Analytics and Insight, and Marketing, Bounteous elevates brand experiences and drives superior client outcomes. For more information, please visit www.bounteous.com.
+
+
+
+
+Job Description:
+
+Looking for 5+ years of experience and the location is Bangalore, Hyderabad, Chennai and Gurgaon. 
+
+Willing to work in US Shift timings, candidates who does not prefer working in US shift timings will not be shortlised for screening level. 
+
+
+
+
+Bachelor's/masters degree in computer science or a related field
+Proven experience working as a Python Developer with knowledge of DBMS
+Strong knowledge of Python frameworks like Django, Flask, or Pyramid
+Experience with database integration and optimization
+Familiarity with front-end technologies such as JavaScript, HTML5, and CSS3
+Understanding of server-side templating languages",9,"The resume is exceptionally well-structured and rich in relevant keywords like 'Python,' 'Django,' 'Flask,' 'DBMS' (via specific databases), 'JavaScript,' 'HTML,' and 'CSS.' Its clear formatting and consistent use of industry terms across skills and experience sections would ensure high keyword matching and parseability by an Applicant Tracking System, likely passing initial automated screening for technical fit.",,"While the candidate possesses strong technical skills directly matching the job's Python, framework (Flask, Django), and database requirements, the stated experience level of 5+ years is a significant mismatch. The candidate has approximately 2.5 years of full-time experience, which is less than half of the requirement, making it a poor fit for the stated seniority. The US shift timing preference is also an unknown but critical factor.",4,6
+job_28,"Job Summary: Python Developer
+Python Developer with verification
+ValueLabs
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Role: Senior Python Developer 
+
+Experience: 7+ Years
+
+Notice Period: Less than 30 Days or Serving Notice period 
+
+Location: Bangalore
+
+Must have Skills
+
+
+
+
+1. Python, (Django/Flask) , API, Microservices
+
+2.Familiarity/Usage of tools (Kubernetes, Docker, CI/CD pipelines)
+
+3. Database: MongoDB, PostgreSQL",2,"The ATS would likely filter this resume out immediately due to the hard requirement of '7+ years experience,' which is clearly not met. Although many technical keywords like Python, Flask, Docker, Kubernetes, and CI/CD are present, the absence of 'MongoDB' (a must-have) and the exact job title 'Senior Python Developer' (user is 'Software Engineer III') would further reduce its score, leading to an automated rejection.",,"While the user possesses strong Python, Flask/Django, API, Docker, Kubernetes, CI/CD, and PostgreSQL skills, which align well with many 'must-haves,' the primary issue is the significant experience gap. The job requires 7+ years, whereas the user has approximately 3 years of professional experience, making this role a poor fit for their current career stage. The missing MongoDB skill is also a notable gap for a 'must-have'.",3,2
+job_27,"Job Summary: Python Developer
+Python Developer with verification
+Dexian
+Bengaluru, Karnataka, India (Hybrid)
+Actively reviewing applicants
+Viewed
+Easy Apply 
+
+ Job Details: About the job
+
+We are looking for a Python Developer
+
+
+
+
+Must Have skills:
+
+
+
+
+5+ Years of experience into python development
+Proficiency in SQL or OracleSQL
+
+
+
+
+Good to have skills:
+
+Linux or Unix Experience
+Cloud technologies like AWS, Azure or GCP (Google Cloud)",3,"While the user's profile is rich in relevant keywords like 'Python developer,' 'SQL,' 'Linux,' 'Azure,' and 'GCP,' which would score highly for keyword matching, the ATS would likely flag the significant discrepancy in required experience. The '5+ years of experience' is a 'must-have skill' and a common hard filter in ATS, which the user does not meet, leading to a probable rejection despite strong keyword presence and clean formatting.",,"The user's technical skills in Python, SQL, Linux, and cloud platforms (Azure, GCP) are an excellent match for the job's requirements. However, the critical mismatch lies in the experience level; the job requires 5+ years, while the user has approximately 2.5 years of full-time experience. This significant gap makes the overall relevance poor despite strong skill alignment.",4,3
+job_29,"Job Summary: Software Development Engineer -II (Backend)
+Software Development Engineer -II (Backend)
+ZET
+Bengaluru, Karnataka, India (On-site)
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+About ZET: 
+
+
+
+
+At ZET, we believe that passion fuels those who shape the world. Our team is on a mission to make a real impact by driving financial inclusion and accessibility across Bharat. With over 500 million online users in underserved regions, we are building an ecosystem that connects consumers to trusted financial solutions that were once out of reach. Empowered by technology and trust, we are making financial services more affordable and within reach for the next billion Indians.
+
+Through our ZET platform (B2C), we focus on empowering individuals, especially those new to credit (NTC) or with low credit scores, to build and improve their CIBIL scores. One of our key offerings is the Magnet FD Credit Card, co-branded with SBM. The Magnet card plays a pivotal role in helping users from Tier 2, 3, and 4 cities boost their credit scores. By providing insights & solutions into their creditworthiness, consumers are empowered to make informed financial decisions, unlocking opportunities for loans, mortgages and greater financial stability.
+
+On our ZET Partner (B2B) platform, we connect communities in Tier 3 and 4 cities to a wide network of financial brands and credit products. By leveraging a trusted network of agents, we bridge the gap between consumers and top banks, making financial services more accessible and tailored to the specific needs of these underserved markets. 
+
+Raising $13M in our series A funding in March 2022, we are proud to be backed by General Catalyst, Nexus, Sequoia Surge, Waterbridge and other leading Angel Investors. Starting with only two in 2019, we are now a workforce of high spirited people diligently striving to enable fintech for Bharat.
+
+
+
+
+
+
+
+Problems we are solving
+
+
+
+
+Lack of Awareness: Many consumers, especially those in Tier 3/4 cities, are unaware of how to improve their CIBIL score and the credit solutions available for the same.
+Reaching Bharat: Consumers in Tier 3 & 4 cities often struggle to access essential financial services and opportunities due to limited reach and availability from financial institutions and banks.
+Trust: The trust deficit in rural areas hinders the adoption of modern fintech solutions, creating barriers to financial inclusion.
+
+
+
+
+
+
+
+The rise of ZET
+
+
+
+
+April 2019, Founded by Manish Shara & Yash Desai
+August, 2020, Raised Seed Funding led by Waterbridge Ventures
+July 2021, Raised $5 M led by Sequoias Surge, Nexus Venture Partners & renowned Angel investors.
+March 2022, Raised $13M in Series A round led by General Catalyst & renowned Angel investors.
+
+
+
+
+
+
+
+Angel Investors who trust our mission
+
+
+
+
+Kunal Shah - Co Founder, CRED
+Kalyan Krishnamurthy- CEO Flipkart
+Harshil Mathur - Co Founder, Razorpay
+Vidit Aatrey - Founder & CEO, Meesho
+Sujeet Kumar - Co Founder, Udaan
+Lalit Keshre - CEO, GROWW
+Gaurav Munjal - Co-founder & CEO, Unacademy
+Aakrit Vaish - Co-founder & CEO, Haptik
+Jitendra Gupta - Founder, Jupiter
+Amrish Rau - CEO PineLabs
+Gokul Rajaram - Product & Business, Doordash
+
+
+
+
+
+
+
+Why ZET
+
+
+
+
+High-end Technology
+Make in India
+Accelerated Growth
+Build for next Billion users
+Fast pace & Innovation
+Opportunity to Thrive
+
+
+
+
+Software Development Engineer -II (Backend) 
+
+
+
+
+Responsibilities:
+
+You will own the entire application lifecycle including research, design, development, along with continuous deployment and delivery
+You will act as a mentor through both your technical knowledge and bring in continuous improvements and implement best practices.
+You will apply the latest technology thinking from our tech radar, adopt best design practices to solve complex problems and ensure our product is the best in usability.
+You will work directly with the cross functional product teams, align on the needs of the products and operations.
+You will analyze business, technology challenges and suggest solutions
+
+
+
+
+This opportunity is for you if,
+
+You have 3+ years of work experience in building highly-interactive applications using object oriented programming languages like Java, Spring Boot along with MySQL and AWS.
+You have experience in working with Restful web services.
+You have strong knowledge and understanding of design patterns and domain driven design.
+You understand fundamental design principles behind building scalable, resilient, and maintainable applications.
+You have a knack for writing clean, readable, re-usable code.
+You have good knowledge on TDD and CI/CD practices.
+You have penchant for learning
+You are a great analytical & logical thinker and someone who loves solving problems
+You are passionate, energetic, enthusiastic and a go-getter
+You are  FUN @ Work ",2,"The ATS would likely perform poorly due to the critical absence of primary keywords like 'Java,' 'Spring Boot,' 'AWS,' and 'MySQL,' which are explicitly stated as core requirements. While general backend and CI/CD terms are present, the ATS is designed to filter for these specific, non-negotiable technology keywords, leading to a low match score or immediate disqualification.",,"While Piyush possesses strong backend, distributed systems, and fintech domain experience at a relevant seniority level, the job explicitly requires 'Java, Spring Boot along with MySQL and AWS.' Piyush's profile is heavily Python-centric with experience in GCP/Azure/PostgreSQL, which is a fundamental mismatch. This core technology discrepancy makes the job a poor fit despite other transferable skills.",3,2
+job_31,"Job Summary: Backend Engineer - AI Ops
+Backend Engineer - AI Ops with verification
+SolarWinds
+Bengaluru, Karnataka, India
+Viewed
+Easy Apply 
+
+ Job Details: About the job
+
+At SolarWinds, were a people-first company. Our purpose is to enrich the lives of the people we serveincluding our employees, customers, shareholders, Partners, and communities. Join us in our mission to help customers accelerate business transformation with simple, powerful, and secure solutions.
+
+The ideal candidate thrives in an innovative, fast-paced environment and is collaborative, accountable, ready, and empathetic. Were looking for individuals who believe they can accomplish more as a team and create lasting growth for themselves and others. We hire based on attitude, competency, and commitment. Solarians are ready to advance our world-class solutions in a fast-paced environment and accept the challenge to lead with purpose. If youre looking to build your career with an exceptional team, youve come to the right place. Join SolarWinds and grow with us!
+
+ 
+
+Your Role:
+
+We seek a talented and motivated Software Engineer to join our Observability Platform team. In this role, youll contribute to developing scalable, resilient, and real-time observability solutions that help companies monitor and optimize their distributed systems. Youll work with cutting-edge cloud infrastructure, distributed systems, and high-scale data processing, collaborating closely with cross-functional teams to deliver impactful solutions.
+
+Your Impact:
+
+System Development: Design, develop, and maintain components of our observability platform using Kotlin and/or Java. 
+Distributed Systems: Implement high-volume telemetry data processing systems, ensuring scalability, performance, and reliability. 
+Code Quality & Best Practices: Write clean, efficient, and maintainable code, adhering to industry best practices and participating in code reviews. 
+Collaboration: Work closely with product managers, and senior engineers to deliver features aligned with business goals and technical requirements. 
+Troubleshooting & Optimization: Identify and resolve performance bottlenecks in distributed systems and improve platform resilience. 
+Continuous Improvement: Contribute to technical discussions, architecture decisions, and process improvements within the team. 
+
+Your Experience:
+
+Experience: 3+ years of software engineering experience, preferably in distributed systems or observability platforms. 
+Programming Languages: Proficiency in Kotlin and/or Java. Full-stack experience is a plus. 
+Cloud-Native Expertise: Familiarity with cloud platforms (AWS, GCP, or Azure) and cloud-native technologies (Kubernetes, Docker, etc.). 
+Data Systems: Experience with SQL/NoSQL databases and real-time data processing. 
+System Design: Understanding of scalable system design and microservices architecture. 
+Problem-solving: Strong troubleshooting skills and the ability to optimize performance in complex systems. 
+Collaboration: Excellent teamwork and communication skills, with a proactive mindset. 
+
+Preferred Qualifications
+
+Familiarity with observability concepts (metrics, logging, tracing). 
+Experience with frontend frameworks or modern frontend development is a plus. 
+Contributions to open-source projects or community involvement. 
+ 
+
+SolarWinds is an Equal Employment Opportunity Employer. SolarWinds will consider all qualified applicants for employment without regard to race, color, religion, sex, age, national origin, sexual orientation, gender identity, marital status, disability, veteran status or any other characteristic protected by law.
+
+All applications are treated in accordance with the SolarWinds Privacy Notice: https://www.solarwinds.com/applicant-privacy-notice",8,"The profile is highly optimized for ATS, featuring clear formatting, standard sections, and a high density of relevant keywords such as 'Distributed Systems,' 'Cloud Platforms,' 'Kubernetes,' 'Docker,' 'SQL,' 'Azure,' 'GCP,' and 'observability.' While the primary programming language (Python) doesn't directly match the job's Kotlin/Java requirement, the strong alignment with other critical technical skills and tools would likely allow it to pass initial automated screening.",,"The user's profile aligns strongly with the job's core requirements for distributed systems, cloud platforms (Azure/GCP), high-scale data processing, and system design experience. The 3+ years of experience and work on observability-related components are excellent fits. However, the primary programming language mismatch (Python vs. Kotlin/Java) is a significant hurdle, preventing a higher score, as this is often a strict requirement for backend roles.",6,6
+job_32,"Job Summary: Python Developer + Generative AI
+Python Developer + Generative AI
+Programming.com
+Bengaluru, Karnataka, India (On-site)
+Company review time is typically 1 week
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Job Title: Python Developer  Generative AI
+
+Location: Bangalore (Night Shift)
+
+Experience: 3+ Years
+
+Shift: Night Shift
+
+Employment Type: Full-Time
+
+About the Role
+
+We are seeking an experienced and innovative Python Developer with expertise in Generative AI to work in a night shift capacity. You will design, develop, and deploy intelligent AI-powered systems using cutting-edge LLMs and generative models. The ideal candidate thrives in fast-paced environments and is passionate about leveraging AI to solve real-world problems.
+
+Key Responsibilities
+
+Build and maintain Python-based APIs and backends integrated with Generative AI models.
+
+Work with large language models (e.g., GPT, Claude, LLaMA) and image/audio generation tools (e.g., DALLE, Stable Diffusion).
+
+Implement prompt engineering, fine-tuning, and model deployment pipelines.
+
+Collaborate with global teams during night shift hours to develop scalable AI features.
+
+Deploy models using FastAPI, Flask, Docker, or cloud platforms.
+
+Optimize model performance for latency, accuracy, and scalability.
+
+Ensure testing, monitoring, and documentation of AI integrations.
+
+Required Skills
+
+4+ years of Python development experience.
+
+1+ years of hands-on experience with Generative AI tools and models.
+
+Strong knowledge of PyTorch, TensorFlow, Hugging Face, LangChain, or OpenAI API.
+
+Experience with deployment (Docker, FastAPI), and model inference in production.
+
+Familiarity with vector databases (FAISS, Pinecone, Weaviate).
+
+Preferred Skills
+
+Experience with GPU-based training or inference.
+
+Exposure to MLOps tools like MLflow, Airflow, or Kubeflow.
+
+Understanding of AI ethics, model safety, and bias mitigation.
+
+Contributions to open-source GenAI or ML projects.
+
+Job Types: Full-time, Permanent
+
+Benefits:
+
+Health insurance
+
+Provident Fund
+
+Schedule:
+
+Night shift",4,"The ATS would identify many strong keywords related to Python development, Flask, Docker, Airflow, and cloud platforms (Azure, GCP), which are positive. However, it would critically flag the near-complete absence of keywords specific to Generative AI, LLMs, prompt engineering, fine-tuning, PyTorch, Hugging Face, LangChain, OpenAI API, and vector databases, which are central to the job description's 'required skills.' This significant lack of core AI keywords would result in a low match score for this specific role, despite excellent general software engineering skills.",,"While Piyush is a highly skilled Python developer with strong experience in distributed systems and cloud platforms, the job's core focus is on Generative AI, LLMs, and related tools (e.g., PyTorch, Hugging Face, LangChain, vector databases). Piyush's profile shows no explicit experience in Generative AI, and his only AI/ML project is a traditional deep learning task from several years ago. This fundamental mismatch in the primary skill requirement makes the job largely irrelevant to his current profile.",3,3
+job_33,"Job Summary: Backend Engineer
+Backend Engineer
+StockGro
+Bengaluru, Karnataka, India (On-site)
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Company Vision
+
+
+
+
+StockGro is Indias leading stock market education platform with a community of over 2.5 crore market enthusiasts. StockGro equips users with trading and investing knowledge to succeed in the stock market. Whether user is a beginner or a seasoned trader, he can learn strategies from top investment managers, practice with platform currency, and study portfolios of experts & peers. By combining experiential learning with guidance from SEBl-registered experts, StockGro has become the go-to platform for trading & investing education
+
+
+
+
+.About StockGro
+
+
+
+
+Founded in January 2020 by former venture capitalist Ajay Lakhotia, were well-funded. We are backed by some of the respected investors  General Catalyst, BITKRAFT, Roots Ventures, and the likes of Kunal Shah, Vivekananda Hallekere, Rahul Garg as Angels. We have some brilliant minds with us, working on a mission to make 400 million Indian millennials investment-ready, with Senior Executives from Sequoia, Swiggy, Glance, Airtel, Uber, and institutions like ISB, NITs, and IIMs.
+
+
+
+
+The opportunity : 
+
+
+
+
+We are looking for a backend engineer and developer who can:
+
+
+
+
+Work closely with product, design and business teams to understand product ideas and business needs and help deliver series of ultra fast experiments
+Architect and implement backend services with high reliability and scalability
+Complete ownership of design/architect/develop/deploy phases while collaborating with technical and nontechnical stakeholders on all elements of the development process.
+Setup best practices for development and advocate their adoption
+Write quality documentation and handle conflicts well to build consensus
+Continuously discover, evaluate, and implement new technologies and frameworks to maximize development efficiency
+Mentor young minds around you and foster team spirit
+
+
+
+
+Requirements :
+
+
+
+
+4+ years of strong programming expertise in Golang and databases like PostgreSQL / MySQL / MongoDB
+Build highly scalable REST APIs that align with StockGros needs
+Strong knowledge of databases such as MySQL, PostgreSQL, or MongoDB
+You have experience building scalable customer-facing applications that are high-performance, highly-available, highly transactional, low latency and massively distributed.
+Strong knowledge of data structures, algorithms, and designing for performance, scalability, and availability.
+Experience in designing and developing service-oriented architecture
+Experience with cache-store / message broker like Redis / RabbitMQ / Kafka
+Having an understanding of GCP, Kubernetes, Docker will be beneficial
+Interest in learning new languages/frameworks as needed
+Worked in a startup environment with high levels of ownership and commitment
+
+
+
+
+What are we looking for?
+
+
+
+
+Someone who will be a quick learner and be able to work independently.
+He/she should be able to operate in a very fast paced environment where time to ship product is super critical.",2,"The ATS would likely filter this resume out immediately due to two critical missing criteria: the explicit requirement for 'Golang' expertise (which is not mentioned at all) and the '4+ years' of experience (the user has approximately 2 years and 3 months of full-time experience). While other relevant keywords like 'REST APIs,' 'PostgreSQL,' 'Kafka,' and 'Kubernetes' are present, these two hard filters would prevent the resume from progressing.",,"The job explicitly requires '4+ years of strong programming expertise in Golang,' which is completely absent from the user's profile. While the user possesses strong general backend engineering skills, experience with scalable systems, and relevant cloud/database technologies, the primary language and experience level are fundamental mismatches that make this role a poor fit.",2,2
+job_34,"Job Summary: Senior Data Engineer
+Senior Data Engineer with verification
+Gameskraft
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+About Gameskraft -
+
+Established in 2017, Gameskraft has become one of Indias fastest-growing companies. We are building the world's most-loved online gaming ecosystem - one game at a time. Started by a group of passionate gamers, we have grown from a small team of five members to a large family of 600+ Krafters, working out of our office in Prestige Tech Park, Bangalore.
+
+
+
+
+Our short-term success lies in the fact that we strive to focus on building a safe, secure,and responsible gaming environment for everyone. Our vision is to create unmatched experiences every day, everywhere. We set the highest benchmarks in the industry in terms of design, technology, and intuitiveness. We are also the industrys only ISO 27001and ISO 9001 certified gaming company.
+
+
+
+
+About the role -
+
+We are hiring a Senior Data Engineer at Gameskraft, one of India's fastest-growing gaming companies, to build and scale a robust data platform. The role involves designing and optimizing data pipelines, developing scalable infrastructure, and ensuring seamless data accessibility for business insights.
+
+
+
+
+Key Responsibilities:
+
+Building and optimizing big data pipelines, architectures, and datasets to handle large-scale data.
+Enhancing infrastructure for scalability, automation, and data delivery improvements.
+Developing real-time and batch processing solutions using Kafka, Spark, and Airflow.
+Ensuring data governance, security compliance, and high availability.
+Collaborating with product, business, and analytics teams to support data needs.
+
+
+
+
+Tech Stack:
+
+
+
+
+Big Data Tools: Spark, Kafka, Databricks (Delta Tables), ScyllaDB, Redshift
+Data Pipelines & Workflow: Airflow, EMR, Glue, Athena
+Programming: Java, Scala, Python
+Cloud & Storage: AWS
+Databases: SQL, NoSQL (ScyllaDB, OpenSearch)
+Backend: Spring Boot
+
+
+
+
+What we expect you will bring to the table:
+
+
+
+
+1. Cutting-Edge Technology & Scale
+
+At Gameskraft, you will be working on some of the most advanced big data technologies, including Databricks Delta Tables, ScyllaDB, Spark, Kafka, Airflow, and Spring Boot. Our systems handle billions of data points daily, ensuring real-time analytics and high-scale performance. If youre passionate about big data, real-time streaming, and cloud computing, this role offers the perfect challenge.
+
+
+
+
+2. Ownership & Impact
+
+Unlike rigid corporate structures, Gameskraft gives engineers complete freedom and ownership to design, build, and optimize large-scale data pipelines. Your work directly impacts business decisions, game fairness, and player experience, ensuring data is actionable and insightful.
+
+
+
+
+3. High-Growth, Fast-Paced Environment
+
+We are one of Indias fastest-growing gaming companies, scaling rapidly since 2017. You will be part of a dynamic team that moves fast, innovates continuously, and disrupts the industry with cutting-edge solutions.
+
+
+
+
+4. Strong Engineering Culture
+
+We value technical excellence, continuous learning, and deep problem-solving. We encourage engineers to experiment, contribute, and grow, making this an ideal place for those who love tackling complex data engineering challenges.
+
+
+
+
+Why Join Gameskraft?
+
+
+
+
+Work on high-scale, real-time data processing challenges.
+Own end-to-end design and implementation of data pipelines.
+Collaborate with top-tier engineers and data scientists.
+Enjoy a fast-growing and financially stable company.
+Freedom to innovate and contribute at all levels.
+
+ 
+
+Work Culture
+
+A true startup culture - young, fast paced, where you are driven by personal ownership of solving challenges that help you grow fast
+Focus on innovation, data orientation, being results driven, taking on big goals, and adapting fast
+A high performance, meritocratic environment, where we share ideas, debate and grow together with each new product
+Massive and direct impact on the work you do. Growth through solving dynamic challenges
+Leveraging technology & analytics to solve large scale challenges
+Working with cross functional teams to create great product and take them to market
+Rub shoulders with some of the brightest & most passionate people in the gaming & consumer internet industry
+
+
+
+
+Compensation & Benefits
+
+
+
+
+Attractive compensation and ESOP packages
+INR 5 Lakh medical insurance cover for yourself and your family
+Fair & transparent performance appraisals
+An attractive Car Lease policy
+Relocation benefits 
+A vibrant office space with fully stocked pantries. And your lunch is on us!",8,"The profile would perform very well in an ATS due to a high density of relevant keywords. Terms like 'Software Developer', 'Data Engineer', 'Big Data', 'Distributed Computing', 'ETL', 'Python', 'SQL', 'Kafka', 'Airflow', 'Spark', 'Databricks', and 'Cloud' are all prominently featured. While specific AWS services (EMR, Glue, Redshift) and Java/Scala are missing, the strong presence of core and similar technologies, coupled with clear formatting and bullet points, ensures a high match rate for most data engineering-related keywords.",,"Piyush's profile is a strong match for a Data Engineer role, with extensive experience in Python, Big Data, ETL, and cloud platforms like GCP/Azure. He possesses direct experience with key technologies like Kafka, Airflow, Spark (PySpark), and Databricks. However, the 'Senior Data Engineer' title typically implies more years of experience (4-6+) than his 2.5 years post-graduation, and the job's specific tech stack leans heavily into AWS (EMR, Glue, Redshift) and Java/Scala, where his experience is primarily with GCP/Azure and Python.",7,7
+job_30,"Job Summary: Senior Software Engineer
+Senior Software Engineer with verification
+Cimpress India
+India (Remote)
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Position: Senior Software Engineer (PR2 Level)
+
+Looking for Immediate to 30 days joiner.
+
+
+
+
+About Cimpress:
+
+Led by founder and CEO Robert Keane, Cimpress invests in and helps build
+
+customer-focused, entrepreneurial mass customization businesses. Through the
+
+personalized physical (and digital) products these companies create,we
+
+empower over 17 million global customers to make an impression. Last year,
+
+Cimpress generated $3.5B in revenue through customized print products,
+
+signage, apparel, packaging and more. The Cimpress family includes a dynamic,
+
+international group of businesses and central teams, all working to solve
+
+problems, build businesses, innovate and improve.
+
+
+
+
+Business Unit: Boxup
+
+BoxUp was founded by Curt Stephens and Ward Hubbard in Terre Haute,
+
+Indiana in 2016. The company was formed to supply high-quality custom-printed boxes in small
+
+order quantities with quick lead times and reasonable prices. BoxUp manufactures and sells corrugated shipping containers. BoxUp's primary customers are small to medium-sized e-commerce businesses that ship their products by parcel post - UPS or FedEx.
+
+
+
+
+Responsibilities:
+
+ High proficiency with Full Stack Application development in NodeJS along with react.js or any other JavaScript technology.
+
+ Good working experience with Data Structures, Algorithms, Low-Level Design, Object-Oriented Design
+
+ An entrepreneurial spirit and enjoys moving quickly on new, green/brownfield products.
+
+ The ability to stitch together many different services and processes even if they have not worked with them before.
+
+ Ability to think about systems and services and write high-quality code. We work mostly with NextJs and Node however, frameworks can be learned: we care much more about your general engineering skill than your knowledge of a particular framework.
+
+ Participate in design meetings and code reviews
+
+ Work with your team and other technology teams in a cooperative environment to understand what stakeholders need and iterate on solutions, adapting to feedback from customer
+
+
+
+
+What's in store for you?
+
+Grow the online retail business with a new and improved front-end experience
+
+Sell to other Cimpress businesses and expand BoxUp products by accessing other Cimpress business products.
+
+
+
+
+Remote First-Culture:
+
+In 2020, Cimpress adopted a Remote-First operating model and culture. We heard from our team members that having the freedom, autonomy and trust in each other to work from home and, the ability to operate when they are most productive, empowers everyone to be their best and most brilliant self. Cimpress also provides collaboration spaces for team members to work physically
+
+together when it's safe to do so or believe in oce working will deliver the best results. Currently we are enabled to hire remote team members in over 20 US States as well as several countries in Europe: Spain, Germany, UK, Czech Republic, the Netherlands and Switzerland.
+
+More information about the organization can be found in the below link:
+
+https://cimpress.com
+
+https://www.linkedin.com/company/cimpress/
+
+https://twitter.com/Cimpress
+
+Want to explore more about our brands?
+
+Please visit: https://cimpress.com/brands/explore-our-brands/",7,"The ATS would likely perform well due to the presence of critical keywords like 'Software Engineer,' 'Senior Software Engineer' (implied by experience level), 'JavaScript,' 'Node.js,' 'React,' 'Data Structures,' 'Algorithms,' and 'System Design.' Although the resume's primary focus is data engineering, the explicit mention of the required full-stack technologies, even from an older project, combined with clean, standard formatting, would help it pass initial keyword filters.",,"While Piyush is a strong engineer with relevant seniority and general software development skills (data structures, algorithms, system design), his core expertise and recent work experience are heavily in Data Engineering (Python, Big Data, ETL, PySpark, Kafka). The job explicitly requires 'high proficiency with full stack application development in Node.js along with React.js or any other JavaScript technology,' which is not Piyush's primary or recent focus, despite some past internship exposure.",4,5
+job_35,"Job Summary: Staff Software Engineer
+Staff Software Engineer with verification
+Zepto
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Our Story
+
+Zepto is one of the fastest growing startups in India today. Just 6 months after launching, we've raised $160million from marquee investors in Silicon Valley and India. Our Founders, Aadit Palicha and Kaivalya Vohra, dropped out of Stanford University to build Zepto in India.
+
+Together, theyve created an incredibly strong team, with Senior Executives from Uber, Flipkart,Dream11,Pepperfry, and Pharmeasy. The magic of Zepto is our ability to consistently deliver 3,000+ products in 10 minutes flat. It's the core of whatwe do, and the reason why weve been able to grow so fast with phenomenal customer love. Our mission issimple: to make 10-minute delivery the new normal.
+
+
+
+
+Engineering @ Zepto
+
+Building for scale, rapid iterative development, and customer-centric product thinking at each step define every day for a Zepto engineer. If building technology that impacts millions, brainstorming with some of the best minds in the country, executing at lightning speed, product-driven thinking, and owning your work from start to finish excites you, then Zepto is the right place for you.
+
+
+
+
+Primary Responsibilities
+
+ Write maintainable/scalable/efficient code.
+
+ Design and architect technical solutions for the business problems of a very large e-commerce portal.
+
+ Work in cross-functional team, collaborating with peers during entire SDLC.
+
+ Follow coding standards, unit-testing, code reviews etc
+
+ Follow release cycles and commitment to deadlines.
+
+
+
+
+What Are We Looking For?
+
+ 6+ years of experience in building large scale applications or products.
+
+ A Bring It On attitude; bias for action; self-driven, end-to-end ownership; entrepreneurial
+
+ approach; focus on operational excellence; ability to work with ambiguity.
+
+ Strong in problem solving skills, data structures and algorithms.
+
+ Very good understanding of one or more of RDBMS/NoSQL/ Messaging/ Caching technologies.
+
+ Excellent understanding of and coding skills in following technologies: Java
+
+ B Tech/BE in Computer Science or equivalent from a reputed institution.
+
+
+
+
+Why Join Us?
+
+ Zepto is on a blitzscaling path unlike any other startup today.
+
+ The opportunity to join Indias next Unicorn is rare. Given our very high hiring bar, we offer a very
+
+competitive salary and substantial equity to create everlasting wealth for our early believers as the
+
+company grows.",2,"The ATS would likely filter this profile out immediately due to two critical hard requirements: the explicit '6+ years of experience' (Piyush has ~2.5 years) and the mandatory 'JAVA' proficiency, which is entirely absent from his resume. While other keywords like 'scalable', 'problem solving', 'data structures', 'algorithms', 'RDBMS', and 'messaging' are present, these major discrepancies would almost certainly lead to an automatic rejection by most ATS systems.",,"The job explicitly requires '6+ years of experience' and 'excellent understanding of and coding skills in JAVA'. Piyush has approximately 2.5 years of professional experience and his profile is heavily Python-centric with no mention of Java. While his experience in large-scale systems, distributed computing, and data structures/algorithms is relevant, these two core mismatches make the job a poor fit for his current profile.",3,2
+job_37,"Job Summary: Python Full Stack Engineer
+Python Full Stack Engineer with verification
+InfoBeans
+Bengaluru, Karnataka, India (Hybrid)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Job title - Python Django Full Stack Engineer - Senior Developer 
+
+Job location- Indore/ Pune/Chennai/Bangalore ( Hybrid )
+
+Experience Required - 10+ Years 
+
+
+
+
+Job Description : 
+
+Python Django Developer with React and Azure/AWS Exposure
+
+
+
+
+Responsibilities
+
+Develop highly scalable applications in Python/Django framework and Azure/AWS experience
+
+Create and deploy applications in azure environment with various interconnected Azure components.
+
+Understand and enhance front-end applications using React JS, HTML5 and CSS3.
+
+Identify and fix bottlenecks that may arise from inefficient code.
+
+Knowledge of user authentication and authorization between multiple systems, servers and environments.
+
+Ensure that programs are written to the highest standards (e.g., Unit Tests) and technical specifications.
+
+Documentation of the key aspects of the project.
+
+Ability to collaborate on projects and work independently when required.
+
+
+
+
+Qualifications
+
+7+ years of prior experience as a developer in the required technologies
+
+Solid organizational skills, ability to multi-task across different projects
+
+Experience with Agile methodologies
+
+Skilled at independently researching topics using all means available to discover relevant information
+
+Ability to work in a team environment
+
+Excellent verbal and written communication skills
+
+Self-starter with ability to multi-task and to maintain momentum
+
+
+
+
+Share your updated resume at sanjana.thakur@infobeans.com",4,"The resume's clean formatting and presence of keywords like Python, React, and Azure are positive for an ATS. However, the critical mismatch in required experience (7-10+ years vs. 2.5 years) would almost certainly lead to an immediate ATS rejection. Additionally, the lack of explicit 'Django' project experience and 'AWS' keywords, which are central to the job description, would further lower its ATS score.",,"The job's requirement for 7-10+ years of experience is a major mismatch with the user's 2.5 years of full-time experience. While core Python, React, and Azure skills align, the job's strong emphasis on Django as a primary framework isn't heavily demonstrated in the user's recent work, which leans more towards data engineering. This significant experience gap makes the job largely irrelevant for the user at this stage of their career.",3,3
+job_36,"Job Summary: Python Developer (ML)
+Python Developer (ML)
+MResult
+Bengaluru, Karnataka, India (Hybrid)
+Actively reviewing applicants
+Viewed
+Easy Apply 
+
+ Job Details: About the job
+
+Job Role: Python Developer - ML 
+
+Location: Bangalore/Mangalore - Hybrid 
+
+Type: Full-Time
+
+
+
+
+Why MResult?
+
+Founded in 2004, MResult is a global digital solutions partner trusted by leading Fortune 500 companies in industries such as pharma & healthcare, retail, and BFSI. MResults expertise in data and analytics, data engineering, machine learning, AI, and automation help companies streamline operations and unlock business value. As part of our team, you will collaborate with top minds in the industry to deliver cutting-edge solutions that solve real-world challenges.
+
+
+
+
+Website: https://mresult.com/ 
+
+
+
+
+What We Offer:
+
+At MResult, you can leave your mark on projects at the worlds most recognized brands, access opportunities to grow and upskill, and do your best work with the flexibility of hybrid work models. Great work is rewarded, and leaders are nurtured from within. Our values  Agility, Collaboration, Client Focus, Innovation, and Integrity  are woven into our culture, guiding every decision.
+
+
+
+
+What This Role Requires 
+
+We are looking for a skilled and motivated Python Developer to join our dynamic team. The ideal candidate should have 3-5 years of experience in software development with a strong background in building production-grade Python applications. Additionally, hands-on expertise in Streamlit for developing interactive web applications is crucial. This role also requires a basic understanding of Machine Learning concepts and proficiency in working with Pandas, NumPy, and Scikit-learn. The selected candidate will be responsible for developing, deploying, and maintaining robust, scalable Python solutions with a focus on data-driven applications and interactive dashboards. 
+
+
+
+
+Here is what you will do: 
+
+ Develop, test, deploy, and maintain high-quality Python code for production environments.
+
+ Design and build interactive web applications and dashboards using Streamlit. 
+
+ Perform data manipulation, cleaning, and analysis using Pandas and NumPy. 
+
+ Implement and work with basic ML models using Scikit-learn for classification, regression, or clustering tasks. 
+
+ Write efficient, well-documented, and maintainable code. 
+
+ Participate in code reviews and contribute to a collaborative development environment. 
+
+ Troubleshoot, debug, and upgrade existing systems as needed. 
+
+ Hands-on experience with Docker and Kubernetes (AWS EKS) is preferred.
+
+
+
+
+Key Skills to Succeed in This Role: 
+
+ Strong expertise in Python programming. 
+
+ Experience with Streamlit for creating interactive applications. 
+
+ Knowledge of Machine Learning fundamentals. 
+
+ Proficiency in Pandas, NumPy, and Scikit-learn. 
+
+ Familiarity with Docker and Kubernetes (AWS EKS) is a plus. 
+
+ Ability to write clean, efficient, and scalable code. 
+
+ Strong problem-solving and analytical skills. 
+
+ Excellent communication and team collaboration skills.
+
+
+
+
+Manage, Master, and Maximize with MResult 
+
+MResult is an equal-opportunity employer committed to building an inclusive environment free of discrimination and harassment. Take the next step in your career with MResult  where your ideas help shape the future.",6,"The profile scores well on general Python development, Docker, Kubernetes, and Pandas keywords. However, it critically misses explicit mentions of 'Streamlit,' 'NumPy,' and 'Scikit-learn,' which are highlighted as essential or preferred skills in the job description. The ATS might flag these specific omissions, potentially lowering its ranking despite strong overall technical proficiency in related areas.",,"While Piyush is a highly skilled Python developer with strong experience in data engineering and scalable systems, this specific role emphasizes 'ML' and 'Streamlit' as crucial requirements. Piyush's profile lacks explicit experience with Streamlit and his machine learning background appears limited to an older academic project, not recent professional application using tools like Scikit-learn, which is a key focus for this position.",5,5
+job_38,"Job Summary: Software Engineer Backend (SDE 2)
+Software Engineer Backend (SDE 2)
+Arcana
+Bangalore Urban, Karnataka, India (On-site)
+3 school alumni work here
+3 Indian Institute of Technology (Banaras Hindu University), Varanasi school alumni work here
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Join our dynamic team at the forefront of cutting-edge technology as we seek a seasoned Senior Backend Engineer. Embark on a journey where your deep-rooted expertise in computer science fundamentals, alongside an intricate understanding of data structures, algorithms, and system design, becomes the cornerstone of innovative solutions. This pivotal role not only demands your proficiency in developing and elevating compute and I/O-intensive applications but also ensures their peak performance and unwavering reliability.
+
+
+
+
+Responsibilities:
+
+Architect, refine, and escalate the capabilities of complex backend systems using Python, with a laser focus on efficiency, durability, and scale.
+Elevate application performance, optimizing for speed, scalability, and resource allocation.
+Forge robust methodologies to manage high concurrency and vast data volumes, setting new industry benchmarks.
+Collaborate intimately with engineering and product peers to crystallize requirements into resilient, scalable architectures.
+Demonstrate proficiency with advanced storage solutions and databases like Redis, PostgreSQL, and ClickHouse, enhancing system integrity.
+Champion coding excellence, testing rigor, and deployment precision, driving best practices across the development lifecycle.
+
+Requirements:
+
+Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+Minimum of 2 years of experience in backend development with Python in a production environment.
+Proven experience in scaling compute and I/O-intensive applications.
+Strong foundation in computer science, with a deep understanding of data structures, algorithms, and system design principles.
+Experience in handling concurrent requests at scale and optimizing large-scale systems for performance and reliability.
+Familiarity with database technologies such as Redis, PostgreSQL, and ClickHouse.
+Experience in the financial sector, particularly in developing fintech applications or systems, is a plus.
+Solid understanding of software development life cycle, continuous integration, and continuous delivery (CI/CD) practices.
+
+Excellent problem-solving abilities and strong communication skills.",9,"Piyush's profile would perform remarkably well in an ATS. It's rich with keywords directly from the job description, including 'Python,' 'backend,' 'system design,' 'data structures,' 'algorithms,' 'scalability,' 'reliability,' 'PostgreSQL,' 'CI/CD,' and 'fintech.' The use of quantifiable achievements and a clear, structured format with dedicated skills and experience sections ensures high parseability and strong keyword density, making it highly likely to pass initial automated screening.",,"This is an exceptionally strong match. Piyush's extensive experience in Python backend development, distributed systems, and large-scale data processing directly aligns with the job's emphasis on compute and I/O-intensive applications, scalability, and performance. His background in fintech and explicit mention of key technologies like PostgreSQL, Airflow, Kafka, and CI/CD pipelines further solidify the fit, making him an ideal candidate for this SDE 2 role.",9,9
+job_39,"Job Summary: Data Engineer
+Data Engineer with verification
+L&T Technology Services
+Bengaluru, Karnataka, India (On-site)
+1 connection works here
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Job Title: Data Engineer
+
+Location: Bengaluru
+
+
+
+
+L&T Technology Services is seeking a Data Engineer (Experience range - 9+ years) of experience, proficient in:
+
+
+
+
+
+
+
+9+ years relevant data engineering hands on work experience- data ingestion, processing, exploratory analysis to build solutions that deliver value through data as an asset.
+Data engineer build ,test and deploy data pipelines efficiently and reliably move data across systems and should be top of latest architectural trends on AZURE cloud.
+Folks who understand parallel and distributed processing, storage, concurrency, fault tolerant systems.
+Folks who thrive on new technologies, able to adapt and learn easily to meet the needs of next generation engineering challenges.
+Technical Skills (Must-Have)
+Applied experience with distributed data processing frameworks - Spark , Databricks with Python and SQL
+Must have worked at least 2 end-end data analytics projects with Databricks Configuration , Unity Catalog, Delta Sharing and medallion architecture.
+Applied experience with Azure Data services ADLS , Delta
+Required Skills: Azure Data Lake Storage (ADLS), Advanced SQL and Python Programming, Databricks Expertise with Medallion Architecture, Data Governance and Security, 
+
+
+
+
+
+
+
+#AzureDataEngineer, #AzureCloud, #AzureDatabricks, #AzureDataLake, #AzureSynapse, #AzureDataFactory, #AzureSQL, #Databricks, #DataEngineering, #Python, #Flask",3,"The resume is well-formatted and boasts a high density of relevant keywords (Python, SQL, Spark, Databricks, Azure, Data Engineer, Data Pipelines, ETL), which would typically score well for keyword matching. However, the critical '9+ years experience' requirement is a likely hard filter for most ATS systems. This discrepancy in experience would almost certainly lead to immediate disqualification, overriding the strong technical keyword alignment.",,"Piyush's technical skills (Python, SQL, Spark, Databricks, Azure, ETL, Data Lakehouse) are an excellent match for the job's technical requirements. However, the job explicitly asks for '9+ years relevant data engineering hands-on work experience,' while Piyush has approximately 2.5 years. This significant experience mismatch makes the job highly irrelevant for his current career stage, despite the strong technical alignment.",2,2
+job_44,"Job Summary: Data Engineer
+Data Engineer
+Impetus
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+About Impetus
+
+
+
+
+Impetus Technologies is a digital engineering company focused on delivering expert services and products to help enterprises achieve their transformation goals. We solve the analytics, AI, and cloud puzzle, enabling businesses to drive unmatched innovation and growth.
+
+Founded in 1991, we are cloud and data engineering leaders providing solutions to fortune 100 enterprises, headquartered in Los Gatos, California, with development centers in NOIDA, Indore, Gurugram, Bengaluru, Pune, and Hyderabad with over 3000 global team members. We also have offices in Canada and collaborate with a number of established companies, including American Express, Bank of America, Capital One, Toyota, United Airlines, and Verizon.
+
+
+
+
+Experience- 3-8 years
+
+
+
+
+Location- Gurgaon & Bangalore
+
+
+
+
+Job Description
+
+You should have extensive production experience in GCP, Other cloud experience would be a strong bonus.
+
+- Strong background in Data engineering 2-3 Years of exp in Big Data technologies including, Hadoop, NoSQL, Spark, Kafka etc.
+
+- Exposure to enterprise application development is a must
+
+
+
+
+Roles & Responsibilities
+
+Able to effectively use GCP managed services e.g. Dataproc, Dataflow, pub/sub, Cloud functions, Big Query, GCS - At least 4 of these Services.
+Good to have knowledge on Cloud Composer, Cloud SQL, Big Table, Cloud Function.
+Strong experience in Big Data technologies  Hadoop, Sqoop, Hive and Spark including DevOPs.
+Good hands on expertise on either Python or Java programming.
+Good Understanding of GCP core services like Google cloud storage, Google compute engine, Cloud SQL, Cloud IAM.
+Good to have knowledge on GCP services like App engine, GKE, Cloud Run, Cloud Built, Anthos.
+Ability to drive the deployment of the customers workloads into GCP and provide guidance, cloud adoption model, service integrations, appropriate recommendations to overcome blockers and technical road-maps for GCP cloud implementations.
+Experience with technical solutions based on industry standards using GCP - IaaS, PaaS and SaaS capabilities.
+Extensive, real-world experience designing technology components for enterprise solutions and defining solution architectures and reference architectures with a focus on cloud technologies.
+Act as a subject-matter expert OR developer around GCP and become a trusted advisor to multiple teams.",8,"Piyush's profile would perform very well in an ATS check due to high keyword density and excellent formatting. Key terms like 'Data Engineer', 'Python', 'GCP', 'BigQuery', 'DataProc', 'PySpark', 'Kafka', 'Airflow', 'ETL', and 'CI/CD' are prominently featured. The resume is well-structured with clear sections and quantifiable achievements, making it easy for an ATS to parse and identify relevant skills and experience, despite not explicitly mentioning every single GCP service or 'Hadoop' from the job description.",,"The job is an excellent match for Piyush's profile. His experience as a Software Engineer/Data Engineer at Walmart Global Tech aligns perfectly with the required 3-8 years of experience, strong background in data engineering, and expertise in Python, Big Data (PySpark, Kafka), and Cloud platforms (GCP, Azure). While he doesn't explicitly list all requested GCP services like Dataflow or Pub/Sub, his experience with BigQuery, DataProc, GCS, and event-driven streaming demonstrates strong relevant cloud capabilities and enterprise-level project delivery.",9,8
+job_43,"Job Summary: Software Engineer
+Software Engineer with verification
+Civica
+Vadodara, Gujarat, India (Remote)
+₹1.2M/yr
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+We're Civica and we make software that helps deliver critical services for citizens all around the world. From local to state government, to education, to health and care, over 5,000 public bodies across the globe use our software to help provide critical services to over 100 million citizens. 
+
+Our aspiration is to be a GovTech champion everywhere we work around the globe, supporting the needs of citizens and those that serve them every day. Building on 21 years of continuous growth and success, we're at a pivotal point on our journey to realise that aspiration. 
+
+As a company, we're passionate about what we do and the citizens we help to serve. If you too would like to help champion the use of technology in public services, to improve outcomes for citizens and public sector organisations, then Civica is the right place for you. We will help you unlock the best version of yourself, achieve growth in your career whilst making a real difference to people and communities. 
+
+Why you will love this opportunity as Software Engineer at Civica 
+
+As a Software Engineer, you'll play a crucial role in designing, writing, and maintaining testing code in line with the exciting roadmap set by our Product Management team. You'll be an essential part of the Engineering Team, participating in lively technical discussions, contributing to in-depth design reviews, and tackling interesting problem-solving challenges.
+
+As a part of our dynamic engineering team, you will:
+
+Analyze new requirements and perform detailed impact analysis, contributing to technical design and task breakdown.
+Architect, design, and implement scalable, high-quality solutions.
+Set up and maintain CI/CD pipelines, ensuring smooth deployment across Dev, Test, and Production environments.
+Write clean, maintainable code and develop new features in line with business needs.
+Clearly communicate technical aspects that impact requirement delivery and product functionality.
+Participate in iterative development with openness to feedback and continuous improvement.
+Provide third-line application support, including bug fixes aligned with agreed SLAs.
+Troubleshoot, investigate, and resolve technical issues in collaboration with the Engineering Manager.
+Review code, mentor peers, and advocate for Agile principles and modern development best practices.
+Perform thorough unit testing and ensure appropriate test coverage.
+Maintain proper code documentation, version control, and commenting for future-proof development.
+
+
+
+Requirements
+
+
+
+Your keys to thriving in this position:
+
+A minimum of 3 years of relevant experience is essential.
+A solid foundation in .Net development, encompassing .Net Core, C#, and Angular.
+A self-driven professional who excels independently and as a vital team player.
+The ability to navigate both detailed tasks and high-level concepts.
+A passion for Agile methodologies and fostering a collaborative environment.
+Practical experience with cloud-based applications.
+A proven track record in crafting secure and high-performing software solutions.
+A history of meeting deadlines with exceptional quality.
+
+
+
+Skills We're Looking For:
+
+Experience with .NET and .NET Framework using C# - 3+ years
+Experience with .NET Web API - 3+ years
+Proficiency in Databases (SQL Server) - 3+ years
+Skilled in Javascript / Typescript - 3+ years
+Familiarity with front-end frameworks (VueJs preferred) - 3+ years
+Unit Testing experience (XUnit/NUnit/MSTest) - 2+ years
+Knowledge of Docker and Kubernetes - 1+ year
+Experience with Azure DevOps - Pipelines, Artifacts, Repos - 1+ year
+Familiarity with Azure services (AppInsights, Storage, KeyVault, etc.) - 1+ year
+Experience in E2E Testing (Playwright preferred) - 1+ year
+Proficient with ORM technologies (Entity Framework/Dapper/NHibernate/ADO.Net) - 1+ year
+
+
+
+
+Benefits
+
+
+
+
+Why you'll love working with us 
+
+We know that when our people are happy, they will work better and have greater work satisfaction. Here's what you can expect: 
+
+We're all different -and we love this about us. 
+
+We provide an inclusive,safe, and welcoming environment to all Civicans - there are heaps of opportunities to enable you to grow and be your best. 
+
+Giving culture -we encourage you to ""give back"" with benefits such as our Days of Difference leave where you can volunteer for a charity of your choice. 
+
+Flexible Work -Flexible work - we have the technology and tools to support you to work from home and come into our offices now and then to catch up and socialise with colleagues. 
+
+Apply for this job - Become part of something special Do you see yourself in this role? If so, then we would love to hear from you.",3,"While the resume is well-formatted and includes general software engineering keywords like 'Software Engineer', 'CI/CD pipelines', 'Docker', 'Kubernetes', and 'Azure', it critically lacks the explicit and essential keywords for this role, such as '.NET', 'C#', 'Angular', 'Vue.js', and 'SQL Server'. An ATS configured to filter for these core technologies and the 3-year experience minimum would likely flag this profile as a poor match, despite the presence of other relevant skills.",,"The job is primarily for a .NET/C# Software Engineer with a focus on front-end frameworks like Angular/Vue.js and SQL Server. Piyush's profile is strongly geared towards Python, Data Engineering, Big Data, and cloud platforms (PySpark, Flask, Django, PostgreSQL). There is a fundamental mismatch in the core technology stack required by the job and Piyush's expertise. Additionally, Piyush's 2 years 4 months of experience falls short of the stated 3-year minimum.",2,2
+job_42,"Job Summary: Software Engineer
+Software Engineer with verification
+Grid Dynamics
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Location-Bangalore
+
+TE-4 Years and above
+
+Location- Bangalore
+
+Job Description:
+
+Bachelor's degree in Computer Science, or related technical discipline. With software development experience in building large scale Bigdata platform.
+Proficiency in engineering practices and writing high quality code, with expertise in Java (+python), Maven, Jenkins pipeline.
+Any software development experience in database technology (SQL engines) is added advantage.
+
+About Us:
+
+Grid Dynamics (Nasdaq:GDYN) is a digital-native technology services provider that accelerates growth and bolsters competitive advantage for Fortune 1000 companies. Grid Dynamics provides digital transformation consulting and implementation services in omnichannel customer experience, big data analytics, search, artificial intelligence, cloud migration, and application modernization. Grid Dynamics achieves high speed-to-market, quality, and efficiency by using technology accelerators, an agile delivery culture, and its pool of global engineering talent. Founded in 2006, Grid Dynamics is headquartered in Silicon Valley with offices across the US, UK, Netherlands, Mexico, India, Central and Eastern Europe.
+
+To learn more about Grid Dynamics, please visit www.griddynamics.com. Follow us on Facebook, Twitter, and LinkedIn.
+
+--",5,"The ATS would identify strong keyword matches for 'Software Engineer,' 'Big Data,' 'Python,' and 'SQL.' However, the complete absence of 'Java' and specific tools like 'Maven' and 'Jenkins,' coupled with the profile's ~2.5 years of experience falling short of the '4 years and above' requirement, would significantly lower its score and likely flag it for disqualification.",,"The job's core requirements for 4+ years of experience and Java expertise are significant mismatches with the user's profile, which shows ~2.5 years of full-time experience and no Java. While there's a strong alignment in Big Data, Python, and SQL skills, these critical gaps make the overall fit poor for the stated requirements.",4,4
+job_41,"Job Summary: Software Dev Engineer I
+Software Dev Engineer I
+TekWissen India
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Overview: 
+
+TekWissen is a global workforce management provider that offers strategic talent solutions to our clients throughout India and world-wide. Our client is a company operating a marketplace for consumers, sellers, and content creators. It offers merchandise and content purchased for resale from vendors and those offered by thirdparty sellers. 
+
+
+
+
+Job Title: Software Dev Engineer I
+
+Location: Bengaluru
+
+Job Type: Contract 
+
+Work Type: Remote
+
+
+
+
+Job Description: 
+
+The Top Responsibilities:
+
+Critically analyze and evaluate code responses generated by our LLMs across various programming languages and paradigms
+Exercise expert judgment to select the most appropriate and efficient code solutions from multiple LLM-generated options
+Make informed decisions on behalf of our customers, ensuring that selected code meets industry standards, best practices, and specific client needs
+Develop and write coding demonstrations to illustrate ""what good looks like"" in AI-generated code, setting benchmarks for quality and efficiency
+Provide detailed feedback and explanations for your evaluations, helping to refine and improve the LLM's understanding and output
+Collaborate with the AI research team to identify areas for improvement in the LLM's coding capabilities
+Stay abreast of the latest developments in software engineering, coding standards, and AI to ensure our evaluations remain cutting-edge
+
+Leadership Principles:
+
+Bias for Action, Deliver Results
+
+Mandatory Requirements:
+
+Advanced degree in Computer Science, Software Engineering, or a related field
+Extensive experience (1+ years) in software development across multiple programming languages and paradigms
+Demonstrated ability to critically evaluate code quality, efficiency, and adherence to best practices
+Strong analytical and decision-making skills, with the ability to make complex judgments under ambiguous circumstances
+Excellent written and verbal communication skills, with the ability to explain technical concepts clearly
+Experience in technical writing, particularly in creating coding examples or tutorials
+
+Preferred skills:
+
+Previous experience working with or evaluating AI systems, particularly in the context of code generation
+Familiarity with a wide range of software development methodologies and architectural patterns
+Understanding of machine learning concepts, particularly as they apply to natural language processing and code generation
+Experience in creating or contributing to coding standards or style guides
+This role requires a unique blend of technical expertise, critical thinking, and communication skills.
+You will be the bridge between advanced AI technology and practical, real-world coding applications.
+Your work will directly influence the development of next-generation AI coding assistants, shaping the future of software development.
+If you're passionate about code quality, have a keen eye for detail, and are excited about the potential of AI in software engineering, we encourage you to apply for this pivotal role at AGI Data Services.
+
+Education or Certification:
+
+Graduation in CSE or IT
+
+TekWissen Group is an equal opportunity employer supporting workforce diversity.",4,"While the user's profile is well-formatted and contains numerous strong keywords related to general software development, programming languages (Python, SQL), and cloud technologies, the mandatory 'advanced degree' requirement is a critical mismatch that an ATS would likely filter out immediately. Additionally, specific keywords like 'LLMs', 'code generation', and explicit 'technical writing' experience are less prominent or absent, which could lower the keyword match score for the core responsibilities despite the user's strong overall profile.",,"The user possesses strong general software development skills, extensive experience (3+ years at Walmart Global Tech), and a solid technical stack that aligns with foundational software engineering roles. However, the job's core focus on critically evaluating LLM-generated code is a niche not directly covered by the user's primary experience in building data platforms and services. Furthermore, the 'Software Dev Engineer I' title is a significant downgrade from the user's current 'Software Engineer III', and the 'advanced degree' requirement is a direct mismatch.",5,4
+job_40,"Job Summary: Software Engineer (Backend / AI)
+Software Engineer (Backend / AI)
+Raven
+Bengaluru, Karnataka, India (Hybrid)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+About Us
+
+Raven is a YC-backed startup (S22) building AI assistants for manufacturing plants. Were taking decades of manufacturing expertise and combining it with AI to solve real operational problems. Backed by top VCs, were a small, focused team working to make industrial operations safer, smarter, and more efficient. Were based in Bangalore, building for teams that work in some of the toughest environments.
+
+
+
+
+What Youll Work On
+
+This is a core technical role focused on building AI-native applications and agents for manufacturing workflows. Youll:
+
+Build Python/Go backend services that integrate tightly with AI systems.
+Help improve multi-modal pipeline infrastructure that handle P&IDs, SOPs, sensor data, and technical documents.
+Build agent memory systems using knowledge graphs and event timelines.
+Architect AI orchestration layers for decision making workflows from structured/unstructured plant data.
+Rapidly prototype new AI workflows and deploy in real-world plant environments.
+
+
+
+
+Who Were Looking For
+
+24+ years experience building production systems.
+Strong Python/Go skills, familiar with LLMs, embeddings, vector stores.
+Interest in owning problems and figuring out solutions
+Deep interest in owning problems end-to-endfrom exploring the solution space to deploying working systems in production.
+Comfortable working in ambiguity, iterating fast, and shipping real-world value.
+
+Bonus: Youve worked in a startup before and are comfortable wearing multiple hats.
+
+
+
+
+Why Join Us 
+
+Were not just building one-off toolswere building core systems that empower plant teams to make faster, safer decisions. This is about creating systems that process complex, scattered information and make it accessible in seconds.
+
+
+
+
+Heres what we offer:
+
+Impact: Be one of the first hires and shape the product, culture, and direction of the company. Ownership: Were offering 0.1-1% equity because this should feel like your company too.
+
+Focus: This is a chance to work on deep, meaningful problems that directly affect real-world outcomes in safety and efficiency.
+
+
+
+
+We believe in working together in person, especially at this stage of the company. Fast iteration and collaboration matter, and being in the room together makes a difference.",7,"Piyush's resume is exceptionally well-formatted, uses clear bullet points, and includes numerous quantifiable achievements, which are highly ATS-friendly. It contains a strong density of relevant keywords for backend development, data engineering, cloud platforms (Python, Kafka, Airflow, PySpark, BigQuery, Azure, GCP, Docker, Kubernetes). However, the ATS might flag the absence of specific, modern AI/ML keywords like 'LLMs,' 'embeddings,' 'vector stores,' and 'knowledge graphs,' which are heavily emphasized in the job description, potentially lowering its score despite strong foundational skills.",,"Piyush is a strong backend and data engineer with excellent experience in building scalable data platforms, ETL, and web services using Python and cloud technologies, which aligns well with the 'backend' and 'pipeline infrastructure' aspects of the role. However, the job has a very strong emphasis on 'AI-native applications,' 'LLMs, embeddings, vector stores,' and 'AI orchestration,' areas where Piyush's profile lacks recent, production-level experience. The absence of Go language skills and direct startup/manufacturing domain experience are also minor gaps.",6,6
+job_46,"Job Summary: Python Developer
+Python Developer
+DBiz.ai
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Introduction:
+
+Digital Biz Solutions Pty Ltd is a digital innovation company trusted by enterprise clients to deliver robust data engineering and AI-driven solutions. We are looking for a Python Data Engineer to join a growing team working on high-impact data transformation and analytics projects across industries.
+
+
+
+
+Role Overview:
+
+As a Python Data Engineer, you will be responsible for building and maintaining scalable, reliable data pipelines using Python and orchestration tools such as Mage.AI or Airflow. You will contribute to data ingestion, transformation, warehousing, and cloud-based deployment.
+
+
+
+
+Location: Bengaluru/Kochi
+
+
+
+
+Required Skills:
+
+o Proven experience as a Python Developer with a strong focus on data engineering.
+
+o Proficiency in Mage.AI/airflow/any similar data pipeline orchestration and workflow management
+
+o Solid understanding of ETL processes and data warehousing concepts and modelling techniques
+
+o Experience with connecting to and managing data in data warehouses like PostgreSQL, AWS Redshift, or similar.
+
+o Familiarity with data ingestion from various sources (APIs, databases, files).
+
+o Strong problem-solving and analytical skills.
+
+o Excellent communication and collaboration abilities.
+
+o Bachelor's degree in Computer Science, Engineering, or a related field, or equivalent practical experience.
+
+
+
+
+Preferred Qualifications:
+
+o Experience with deploying data pipelines in cloud environments (e.g., AWS EMR, Kubernetes).
+
+o Hands-on experience with PySpark's machine learning libraries (Spark MLlib).
+
+o Knowledge of real-time data processing and stream analytics.
+
+o Familiarity with other data engineering tools and technologies.
+
+o Contributions to open-source data projects.
+
+o experience with PySpark for big data processing, transformation, and analytics.
+
+
+
+
+Life at Dbiz:
+
+Competitive salary and attractive benefits
+Dynamic and innovative work environment
+Opportunities for personal growth and development
+Engaging and collaborative company culture",9,"The user's profile is highly optimized for an ATS. It contains a high density of relevant keywords such as 'Python,' 'Data Engineer,' 'Airflow,' 'ETL,' 'PySpark,' 'PostgreSQL,' and 'Cloud,' which are prominently featured in skills and experience sections. The clear, structured formatting with bullet points and quantifiable achievements ensures easy parsing and high keyword matching by automated systems, leading to a strong ATS performance.",,"This job is an excellent match for the user's profile. Their extensive experience as a Software Developer and Data Engineer at Walmart, coupled with strong proficiency in Python, Airflow, ETL, Big Data, and cloud platforms like Azure/GCP, directly aligns with nearly all required and many preferred qualifications. The role title and core responsibilities perfectly fit their expertise, making this a highly relevant opportunity.",9,9
+job_49,"Job Summary: Machine Learning Engineer
+Machine Learning Engineer with verification
+HCLSoftware
+Bengaluru, Karnataka, India (Hybrid)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Company Description
+
+HCL Software is a division of HCL Technologies (HCL) that operates its primary software
+
+business. It develops, markets, sells, and supports over 20 product families in the areas of
+
+DevOps, Security, Automation, Digital Solutions, Data Management, Marketing and Commerce,
+
+and Mainframes. Its mission is to drive ultimate customer success with their IT investments
+
+through relentless innovation of its products.
+
+
+
+
+Job Title: Senior Machine learning engineer /Lead Machine Learning Engineer
+
+
+
+
+Location: India (Bangalore)
+
+
+
+
+Experience required-
+
+4 to 7 years
+10 to 13 years
+
+
+
+
+Responsibilities:
+
+
+
+
+
+
+
+About the Role
+
+We are seeking a highly skilled and experienced Lead Machine Learning Engineer to join our dynamic team supporting a fast-growing e-commerce platform. In this role, you will lead the development and deployment of intelligent systems that enhance user experience, optimize operations, and drive business growth. You will work closely with cross-functional teams to build scalable ML solutions, leveraging modern agentic frameworks and cloud-native technologies.
+
+
+
+
+We are seeking an experienced and innovative Lead Machine Learning Engineer to join our team supporting a fast-growing e-commerce platform. In this role, you will lead the design, development, and deployment of machine learning solutions that drive business value. You will collaborate with fellow engineers, cloud architects, and product teams to deliver scalable ML systems in production, mentor team members, and help define best practices for the organization.
+
+
+
+
+Key Responsibilities
+
+Lead the end-to-end development and deployment of AI applications, from data exploration and feature engineering to model training, evaluation, and productionization.
+Architect and implement scalable ML pipelines and infrastructure in cloud and on-prem environments.
+Collaborate with cross-functional teams to understand business requirements and translate them into technical solutions.
+Break down complex implementations into executable tasks for junior engineers, enabling timely implementation of new platform features.
+Guide and mentor a team of ML engineers, fostering a culture of technical excellence and continuous learning.
+Ensure best practices in code quality, testing, version control, and model monitoring.
+Evaluate and recommend new tools, frameworks, and technologies to improve ML workflows.
+Communicate technical concepts and project status to stakeholders at all levels.
+Stay current with the latest research and advancements in machine learning and AI.
+
+
+
+
+Required Qualifications
+
+experience in AI/ML model development and deployment using Python.
+Proven experience designing, deploying, and maintaining several AI applications in a production environment.
+Proven experience delegating & overseeing task work supporting complex AI implementations.
+Proficiency with cloud platforms (AWS, Azure, GCP) and ML services (e.g., SageMaker, Vertex AI, Azure ML).
+Experience deploying production Agentic and/or Gen AI applications on a cloud platform.
+Experience with data engineering, ETL pipelines, and big data tools (e.g., Spark, Hadoop).
+Familiarity with MLOps practices, CI/CD, and model monitoring.
+Excellent leadership, communication, and collaboration skills.
+
+
+
+
+Preferred Qualifications
+
+Experience with Azure cloud services (e.g., Azure Blob Storage, Cosmos DB)
+Experience with Databricks, Spark, Spark Streaming
+Experience working with ecommerce data
+Experience with traditional Python ML frameworks (e.g. Tensorflow, XGBoost, Scikit, etc.)
+Experience with Orchestration frameworks (e.g. Dagster)
+Experience writing & maintaining cloud deployment pipelines",7,"The profile is well-formatted and contains a high density of relevant keywords such as 'Python', 'ETL', 'Big Data', 'Cloud Platforms' (Azure, GCP), 'PySpark', 'Databricks', 'Kafka', 'Airflow', and 'CI/CD'. It also explicitly mentions 'TensorFlow' and 'Deep Learning' from a project. However, the ATS might note the absence of 'Machine Learning Engineer' in his job titles and fewer explicit mentions of 'ML model development', 'productionization of ML models', or specific ML services (e.g., Sagemaker, Vertex AI, Azure ML) as primary responsibilities within his professional experience, which could slightly lower its ranking for a dedicated ML role.",,"Piyush possesses strong foundational skills in data engineering, big data, distributed computing, and cloud platforms (Azure, GCP, Databricks, PySpark), which are highly relevant to an ML Engineer role. However, his work experience primarily emphasizes data infrastructure and ETL, with less explicit focus on leading end-to-end ML model development, deployment, and MLOps practices at scale. Additionally, his professional experience level (approx. 2.5 years) is below the stated 4-7 years for a Senior/Lead role.",6,6
+job_45,"Job Summary: GenAI Sofware Engineer
+GenAI Sofware Engineer with verification
+NielsenIQ
+Pune/Pimpri-Chinchwad Area (Remote)
+1 connection works here
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Job Description
+
+About the Role Youll be a key contributor on our AI Engineering team, building and maintaining the production-grade microservices and APIs that power our GenAI productschatbots, document pipelines, retrieval endpoints, and embedding search. Your primary focus will be delivering clean, well-tested code; robust API designs; and reliable CI/CD processes.
+
+Core Responsibilities
+
+
+ API & Service Development
+Design and implement RESTful (and optionally gRPC) Python services using FastAPI, Flask, or Django
+Define clear API contracts (e.g. OpenAPI/Swagger) and maintain semantic versioning
+ Production-Grade Code Quality
+Apply SOLID principles and clean-code practices to keep services modular and maintainable
+Perform regular refactoring to reduce technical debt and adhere to style guides (flake8, black)
+Drive thorough code reviews, enforcing best practices and design consistency
+ Testing & Validation
+Adopt test-driven development: write and maintain unit, integration, and end-to-end tests with pytest
+Mock external dependencies (LLM clients, vector stores) to validate error handling and edge cases
+Ensure high test coverage and set up automated quality gates in CI pipelines
+ CI/CD & Deployment
+Build and maintain CI/CD pipelines (GitHub Actions, Jenkins, or GitLab CI) that run tests, linting, security scans, and deployments
+Containerize services with Docker and deploy to Kubernetes (or serverless) environments
+Automate release/versioning workflows and rollback strategies for low-risk releases
+ Collaboration & Documentation
+Partner with MLOps, Data Science, and UX/UI teams to integrate new model capabilities
+Maintain up-to-date design docs, API specs, and getting started guides for engineering peers
+Contribute to sprint planning, design reviews, and process improvements
+
+
+Required Qualifications
+
+
+ Experience: 35 years building production Python services
+ Frameworks:
+FastAPI, Flask, or Django for API development
+Asynchronous frameworks (AsyncIO, aiohttp) for high-concurrency endpoints
+ APIs & Protocols: Strong REST experience; basic gRPC or streaming is a plus
+ Testing: Proven TDD with pytest (unit/integration tests and mocks)
+ CI/CD: Hands-on with GitHub Actions, Jenkins, GitLab CI, or equivalent
+ Containers & Orchestration: Proficiency with Docker; experience deploying to Kubernetes or serverless
+
+
+Nice-to-Have & Growth Areas
+
+
+ Familiarity with vector stores (Faiss, Pinecone, Weaviate) and embedding search integration
+ Experience with WebSockets or SSE for real-time chat
+ Exposure to message brokers (Kafka, RabbitMQ) for event-driven architectures
+ Knowledge of feature-flagging, A/B testing, or experimentation platforms
+ Experience in other languages like Java, C++
+
+
+Soft Skills
+
+
+ Problem Solver: Diagnoses and debugs complex issues across code, infra, and external services
+ Communicator: Explains design trade-offs clearly to both technical and non-technical audiences
+ Collaborator: Works effectively in cross-functional teams and helps peers level up
+ Learner: Quickly adopts new tools and practices in the fast-moving GenAI landscape
+
+
+Additional Information
+
+Our Benefits
+
+
+Flexible working environment
+Volunteer time off
+LinkedIn Learning
+Employee-Assistance-Program (EAP)
+
+
+About NIQ
+
+NIQ is the worlds leading consumer intelligence company, delivering the most complete understanding of consumer buying behavior and revealing new pathways to growth. In 2023, NIQ combined with GfK, bringing together the two industry leaders with unparalleled global reach. With a holistic retail read and the most comprehensive consumer insightsdelivered with advanced analytics through state-of-the-art platformsNIQ delivers the Full View. NIQ is an Advent International portfolio company with operations in 100+ markets, covering more than 90% of the worlds population.
+
+For more information, visit NIQ.com
+
+Want to keep up with our latest updates?
+
+Follow us on: LinkedIn | Instagram | Twitter | Facebook
+
+Our commitment to Diversity, Equity, and Inclusion
+
+NIQ is committed to reflecting the diversity of the clients, communities, and markets we measure within our own workforce. We exist to count everyone and are on a mission to systematically embed inclusion and diversity into all aspects of our workforce, measurement, and products. We enthusiastically invite candidates who share that mission to join us. We are proud to be an Equal Opportunity/Affirmative Action-Employer, making decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, protected veteran status or any other protected class. Our global non-discrimination policy covers these protected classes in every market in which we do business worldwide. Learn more about how we are driving diversity and inclusion in everything we do by visiting the NIQ News Center: https://nielseniq.com/global/en/news-center/diversity-inclusion",8,"The user's profile would perform very well in an ATS scan due to its excellent keyword density and clear, standard formatting. It contains direct matches for almost all key technical requirements, including Python, Flask, Django, REST APIs, CI/CD, Docker, Kubernetes, Pytest, Kafka, Airflow, PySpark, and various cloud platforms. The quantified achievements and structured work experience also enhance ATS parsing and matching. While it doesn't explicitly mention 'GenAI' or specific GenAI-related libraries, the foundational software engineering keywords are abundant and highly relevant.",,"The user's profile is a strong match for the core software engineering aspects of the role, particularly in Python development, API design, CI/CD, Docker, Kubernetes, and building scalable, production-grade services. His experience with distributed computing, big data, and event-driven systems aligns well with the job's focus on robust backend services. The primary gap is the explicit GenAI domain experience (LLMs, vector stores) and the slight mismatch in the requested 3-5 years of experience versus his ~2.5 years, though his IIT background and Walmart experience are highly valuable.",7,7
+job_47,"Job Summary: Back End Developer
+Back End Developer
+Asymmetric Labs
+Bengaluru, Karnataka, India (On-site)
+Actively reviewing applicants
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Company Description
+
+
+
+
+Asymmetric Labs is an AI-first, new-age ed-tech company based in Bengaluru. We focus on outcomes such as ranks, jobs, and career progression. Despite being in stealth mode, we are already backed by some of the industry's best investors and advisors.
+
+
+
+
+Role: Back-end Developer (1.5-4 years of experience)
+
+Location: Bengaluru(On-site)
+
+Type: Full-time
+
+
+
+
+About the Role
+
+
+
+
+Were looking for a backend-focused developer whos just starting out but already thinks critically about system design, clean code, and long-term scalability. You'll be part of a lean, fast-moving team, responsible for building and maintaining the APIs and backend services that power our platform.
+
+This is a high-ownership role ideal for someone who thrives in a fast-paced startup environment and is eager to grow into a world-class engineer.
+
+
+
+
+What You'll Do
+
+
+
+
+Develop and maintain scalable backend services and APIs
+Work with MongoDB and other data stores (NoSQL/SQL)
+Optimize performance and reliability at scale
+Contribute to code reviews and system architecture decisions
+Collaborate with the tech team in short feedback loops to ship, learn, and iterate quickly
+
+
+
+
+
+
+
+
+
+
+What We're Looking For
+
+
+
+
+1.5- 4 
+
+Years of backend development experience
+Proficiency in Python (preferably Django or Flask)
+Understanding of API design and backend architecture principles
+Familiarity with MongoDB or similar databases
+Interest in cloud platforms (AWS), CI/CD workflows, and deployment tooling
+Obsession with clean, maintainable code and modular design
+A ""tech purist"" mindset  you enjoy building things the right way, not just the fastest way
+Exposure to early-stage startups, open-source contributions, or serious side projects
+Bachelors degree in CS/Engineering or equivalent self-taught experience
+
+
+
+
+
+
+
+
+
+
+Why Join Us
+
+
+
+
+Collaborate closely with a sharp, hands-on founding team
+Tackle meaningful problems in learning, careers, and education
+Shape critical backend systems from the ground up
+Fast growth and high autonomy in a builder-first environment
+
+
+
+
+
+
+
+
+
+
+If youre serious about systems, love clean architecture, and want to build from first principles, lets talk.",9,"Piyush's profile is highly ATS-friendly. It features clear headings, bullet points, and quantifiable achievements. There's a high density of keywords directly matching the job description, such as 'Python,' 'Flask,' 'Django,' 'REST APIs,' 'system design,' 'CI/CD pipelines,' 'cloud platforms,' and 'code reviews.' The only minor gaps are the explicit mention of 'MongoDB' and 'AWS,' but his comprehensive experience with other databases and cloud providers would still score very well.",,"This is an exceptionally strong match. Piyush's 2.5 years of experience perfectly align with the 1.5-4 years required. His extensive background in Python, Flask/Django, API development, system design, CI/CD, and cloud platforms directly addresses nearly all key requirements. While explicit MongoDB experience isn't listed, his broad database knowledge and strong engineering background from IIT (BHU) make him highly suitable.",9,9
+job_48,"Job Summary: Big Data Developer
+Big Data Developer
+Impetus
+Bengaluru, Karnataka, India (On-site)
+Company review time is typically 1 week
+Viewed
+Promoted
+Easy Apply 
+
+ Job Details: About the job
+
+Job Description
+
+** LOOKING FOR IMMEDIATE JOINERS ONLY**
+
+Qualification
+
+Degree  Graduates/Postgraduate in CSE or related field
+
+
+
+
+Job Descriptions for Big data or Cloud Engineer
+
+
+
+
+Position Summary:
+
+We are looking for candidates with hands on experience in Big Data or Cloud Technologies.
+
+
+
+
+
+
+
+Must have technical Skills
+
+3-6 Years of experience
+Expertize and hands-on experience on Python  Must Have
+Expertize knowledge on SparkQL/Spark Dataframe  Must Have
+Good knowledge of SQL  Good to Have
+Good knowledge of Shell script  Good to Have
+Good Knowledge of one of the Workflow engine like Oozie, Autosys  Good to Have
+Good knowledge of Agile Development Good to Have
+Good knowledge of Cloud- Good to Have
+Passionate about exploring new technologies  Good to Have
+Automation approach -  Good to Have
+
+
+
+
+Roles & Responsibilities
+
+
+
+
+Selected candidate will work on Data Warehouse modernization projects and will responsible for the following activities.
+
+Develop programs/scripts in Python/Java + SparkSQL/Spark Dataframe or Python/Java + Cloud native SQL like RedshiftSQL/SnowSQL etc.
+Validation of scripts
+Performance tuning
+Data ingestion from source to target platform
+Job orchestration",9,"The profile is exceptionally strong in keyword matching for essential skills like Python, Spark (PySpark), SQL, Cloud (Azure, GCP), and workflow engines (Airflow). The clear, structured format with distinct sections and bullet points is highly ATS-friendly, ensuring easy parsing and identification of relevant experience and technologies. While 'shell script' and 'agile development' aren't explicitly listed, the overwhelming number of direct matches for core requirements would ensure a very high ATS score, likely passing initial filters.",,"The user's technical skills in Python, Spark (PySpark), SQL, cloud platforms (Azure, GCP, BigQuery), and workflow engines (Airflow) are an excellent match for the 'Big Data Developer' role's requirements and responsibilities. The experience in data lakehouse platforms, ETL, and performance tuning directly aligns with the job's description. The primary mismatch is the user's 2.5 years of experience, which is slightly below the stated 3-6 years requirement, and the 'immediate joiner' clause given the user just started a new role.",7,7

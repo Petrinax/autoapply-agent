@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.webdriver import WebDriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.support.ui import Select
-from form_models import FormInput, TypeInput, SelectInput, Fieldset
+from src.core.form_models import FormInput, TypeInput, SelectInput, Fieldset
 
 from src.core.user import get_user_details
 from src.core.logger import get_logger

@@ -4,7 +4,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
 from selenium.webdriver.chrome.webdriver import WebDriver
 
-from manual_fill import JobApplication
+from src.core.manual_fill import JobApplication
 
 
 def extract(job: WebElement, driver: WebDriver):
@@ -28,6 +28,6 @@ def extract(job: WebElement, driver: WebDriver):
 
     # application_link = job_details.find_elements(By.ID, "jobs-apply-see-application-link")
     applied = True if 'applied' in job.text.lower() else False
-    visited_job = JobApplication(job_url, job.text, job_content, easy_apply=easy_apply, applied=applied)
+    visited_job = JobApplication(job_url, job.text, job_content.encode('ascii', 'ignore').decode(), easy_apply=easy_apply, applied=applied)
 
     return visited_job

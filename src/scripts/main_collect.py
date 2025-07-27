@@ -5,38 +5,52 @@ import time
 from dotenv import load_dotenv
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
 
 from src.core.extract_job_details import extract
 from src.core.jobs import load_all_job_cards
 from selenium.webdriver.chrome.options import Options
+from selenium.common.exceptions import NoSuchElementException
 
 from src.core.manual_fill import JobApplication
 from tqdm import tqdm
 
-load_dotenv('../../.env')
+from src.core.utils import read_file
+
+
+load_dotenv()
 
 chrome_options = Options()
 chrome_options.add_experimental_option("debuggerAddress", f"127.0.0.1:{os.getenv('DEBUG_PORT')}")
+# Add flags to disable background throttling even in visible mode
+chrome_options.add_argument("--disable-background-timer-throttling")
+chrome_options.add_argument("--disable-backgrounding-occluded-windows")
+chrome_options.add_argument("--disable-renderer-backgrounding")
 driver = webdriver.Chrome(options=chrome_options)
 time.sleep(2)
 
-# driver.get("https://www.linkedin.com/login")
+driver.get("https://www.linkedin.com/login")
+
+try:
+    #
+    email = driver.find_element(By.ID, "username")
+    email.send_keys(os.getenv("LINKEDIN_EMAIL"))
+
+    password = driver.find_element(By.ID, "password")
+    password.send_keys(os.getenv("LINKEDIN_PASSWORD"))
+
+    checkbox = driver.find_element(By.ID, 'rememberMeOptIn-checkbox')
+    if checkbox.is_selected():
+        driver.execute_script("arguments[0].click();", checkbox)
+
+    password.send_keys(Keys.RETURN)
+except NoSuchElementException as e:
+    pass
+
+time.sleep(4)
 #
-# email = driver.find_element(By.ID, "username")
-# email.send_keys(os.getenv("LINKEDIN_EMAIL"))
 #
-# password = driver.find_element(By.ID, "password")
-# password.send_keys(os.getenv("LINKEDIN_PASSWORD"))
-#
-# checkbox = driver.find_element(By.ID, 'rememberMeOptIn-checkbox')
-# if checkbox.is_selected():
-#     driver.execute_script("arguments[0].click();", checkbox)
-#
-# password.send_keys(Keys.RETURN)
-# time.sleep(4)
-#
-#
-driver.get("https://www.linkedin.com/jobs/")
+driver.get("https://www.linkedin.com/jobs/collections/easy-apply/?discover=recommended")
 time.sleep(4)
 
 #
@@ -70,8 +84,8 @@ time.sleep(4)
 #
 
 print("Reading from file")
-with open('job_links_ea.json', 'r') as f:
-    all_jobs = json.load(f)
+jobs_file = './src/data/job_links_ea.json'
+all_jobs = read_file(jobs_file)
 # all_jobs=[]
 next_page_elements = True
 
@@ -132,7 +146,7 @@ while next_page_elements:
 
     print(f"Adding {len(jobs_visited)} new jobs")
 
-    with open("job_links_ea.json", "w") as f:
+    with open(jobs_file, "w", encoding="utf-8") as f:
         for job in jobs_visited:
             all_jobs.append(job.__dict__)
         json.dump(all_jobs, f, indent=2)
